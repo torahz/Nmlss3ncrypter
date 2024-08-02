@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#000000">
+<link rel="apple-touch-icon" href="icon-192x192.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora do Patrão</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+        
+        body {
+            font-family: 'VT323', monospace;
+            background-color: #f2e6d9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            font-size: 18px;
+        }
+        .container {
+            background-color: #fff9e6;
+            padding: 20px;
+            border: 1px solid #000;
+            box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+            max-width: 500px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 1px dashed #000;
+            padding-bottom: 10px;
+        }
+        label, input, select {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        input, select {
+            padding: 5px;
+            font-family: 'VT323', monospace;
+            font-size: 18px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #000;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-family: 'VT323', monospace;
+            font-size: 18px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 5px;
+            text-align: left;
+        }
+        .result {
+            font-weight: bold;
+            color: #ff0000;
+        }
+        .footer {
+            text-align: right;
+            font-size: 14px;
+            margin-top: 20px;
+            color: #888;
+        }
+        .radio-group {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .radio-group label {
+            display: inline;
+        }
+        .hidden {
+            display: none;
+        }
+        .small-text {
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora do Patrão</h1>
+        <label for="salario">Salário Pretendido (R$):</label>
+        <input type="number" id="salario" min="1412" step="0.01" value="1412">
+        
+        <div class="radio-group">
+            <label><input type="radio" name="regime" value="simples" checked> Simples Nacional</label>
+            <label><input type="radio" name="regime" value="presumido"> Lucro Presumido</label>
+            <label><input type="radio" name="regime" value="real"> Lucro Real</label>
+        </div>
+        
+        <div id="faturamentoDiv" class="hidden">
+            <label for="faturamento">Faturamento Mensal (R$):</label>
+            <input type="number" id="faturamento" min="0" step="0.01">
+        </div>
+        
+        <label for="outrosEncargos">Outros Encargos (R$): <span class="small-text">(acrescentar se houver)</span></label>
+        <input type="number" id="outrosEncargos" min="0" step="0.01" value="0">
+        
+        <button onclick="calcular()">Calcular</button>
+        <table id="resultados" style="display: none;">
+            <tr>
+                <th>Item</th>
+                <th>Valor (R$)</th>
+            </tr>
+            <tr>
+                <td>Salário Pretendido</td>
+                <td id="salarioPretendido" class="result"></td>
+            </tr>
+            <tr>
+                <td>INSS (Empresa)</td>
+                <td id="inssEmpresa"></td>
+            </tr>
+            <tr>
+                <td>FGTS</td>
+                <td id="fgts"></td>
+            </tr>
+            <tr>
+                <td>Férias</td>
+                <td id="ferias"></td>
+            </tr>
+            <tr>
+                <td>13º Salário</td>
+                <td id="decimoTerceiro"></td>
+            </tr>
+            <tr>
+                <td>Outros Encargos</td>
+                <td id="outrosEncargosValor"></td>
+            </tr>
+            <tr>
+                <td>Impostos ao Contratante</td>
+                <td id="impostos" class="result"></td>
+            </tr>
+            <tr>
+                <td>Custo Final do Funcionário</td>
+                <td id="custoFinal" class="result"></td>
+            </tr>
+        </table>
+        <div class="footer">By NamelessReaper</div>
+    </div>
+
+    <script>
+        const regimeRadios = document.querySelectorAll('input[name="regime"]');
+        const faturamentoDiv = document.getElementById('faturamentoDiv');
+
+        regimeRadios.forEach(radio => {
+            radio.addEventListener('change', () => {
+                faturamentoDiv.classList.toggle('hidden', radio.value === 'simples');
+            });
+        });
+
+        function calcular() {
+            const salario = parseFloat(document.getElementById('salario').value);
+            const regime = document.querySelector('input[name="regime"]:checked').value;
+            const outrosEncargos = parseFloat(document.getElementById('outrosEncargos').value) || 0;
+            
+            if (isNaN(salario) || salario < 1412) {
+                alert('Por favor, insira um salário válido (mínimo R$ 1.320,00).');
+                return;
+            }
+
+            let inssEmpresa, fgts, ferias, decimoTerceiro, impostos;
+
+            fgts = salario * 0.08;
+            ferias = (salario + salario / 3) / 12;
+            decimoTerceiro = salario / 12;
+
+            if (regime === 'simples') {
+                inssEmpresa = 0;
+            } else {
+                inssEmpresa = salario * 0.20;
+                const faturamento = parseFloat(document.getElementById('faturamento').value);
+                
+                if (isNaN(faturamento) || faturamento <= 0) {
+                    alert('Por favor, insira um faturamento válido para o regime selecionado.');
+                    return;
+                }
+
+                if (regime === 'presumido') {
+                    // Exemplo simples de cálculo para Lucro Presumido (ajuste conforme necessário)
+                    impostos = faturamento * 0.0388; // 3,88% de PIS, COFINS, IRPJ e CSLL
+                } else if (regime === 'real') {
+                    // Exemplo simples de cálculo para Lucro Real (ajuste conforme necessário)
+                    const lucroEstimado = faturamento * 0.32; // Estimativa de lucro de 32% sobre o faturamento
+                    impostos = lucroEstimado * 0.34; // 34% de IRPJ e CSLL sobre o lucro
+                }
+            }
+
+            const encargos = inssEmpresa + fgts + ferias + decimoTerceiro + outrosEncargos + (impostos || 0);
+            const custoFinal = salario + encargos;
+
+            document.getElementById('salarioPretendido').textContent = salario.toFixed(2);
+            document.getElementById('inssEmpresa').textContent = inssEmpresa.toFixed(2);
+            document.getElementById('fgts').textContent = fgts.toFixed(2);
+            document.getElementById('ferias').textContent = ferias.toFixed(2);
+            document.getElementById('decimoTerceiro').textContent = decimoTerceiro.toFixed(2);
+            document.getElementById('outrosEncargosValor').textContent = outrosEncargos.toFixed(2);
+            document.getElementById('impostos').textContent = encargos.toFixed(2);
+            document.getElementById('custoFinal').textContent = custoFinal.toFixed(2);
+
+            document.getElementById('resultados').style.display = 'table';
+        }
+ if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js')
+      .then((reg) => console.log('service worker registered', reg))
+      .catch((err) => console.log('service worker not registered', err));
+    </script>
+</body>
+</html>
