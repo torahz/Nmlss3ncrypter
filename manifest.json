@@ -1,21 +1,21 @@
 {
-  "name": "Calculadora do Patrão",
-  "short_name": "CalcPatrão",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#f2e6d9",
-  "theme_color": "#000000",
-  "orientation": "portrait-primary",
-  "icons": [
-    {
-      "src": "icon-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "icon-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ]
+    "name": "NMLSS Encrypter",
+    "short_name": "NMLSS",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#00ff00",
+    "description": "A secure encryption tool with Matrix theme",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
