@@ -1,11 +1,10 @@
 {
-    "name": "🪵 NMLSS Encrypter",
-    "short_name": "NMLSS",
+    "name": "NMLSS Encrypter",
+    "short_name": "NMLSS1.0",
     "start_url": "https://torahz.github.io/Nmlss3ncrypter/",
-    "scope": "/",
     "display": "standalone",
     "background_color": "#000000",
-    "theme_color": "#00ff00",
+    "theme_color": "#00FF00",
     "description": "A secure encryption tool with Matrix theme",
     "icons": [
         {
