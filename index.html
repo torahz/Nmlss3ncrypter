@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NMLSS Encrypter</title>
+    <title>🪵 NMLSS Encrypter</title>
     <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
@@ -35,8 +35,8 @@
                 <option value="qr">QR Code</option>
             </select>
             
-            <textarea id="input-text" class="terminal-input" 
-                      placeholder="Enter text to encrypt/decrypt"></textarea>
+            <textarea id="input-text" class="terminal-input" maxlength="150" 
+                      placeholder="Enter up to 150 characters"></textarea>
             
             <div class="button-group">
                 <button onclick="processEncryption()" class="terminal-button">Encrypt</button>
@@ -48,12 +48,16 @@
                 <div id="qr-result"></div>
             </div>
 
-            <!-- Admin Panel Button - Only visible for master user -->
             <div id="admin-controls" class="hidden">
                 <button onclick="toggleAdminPanel()" class="terminal-button">Admin Panel</button>
             </div>
 
             <button id="logout-btn" onclick="logout()" class="terminal-button">Logout</button>
+        </div>
+
+        <!-- Music Controls -->
+        <div id="music-controls">
+            <button onclick="toggleMusic()" id="music-button" class="terminal-button">▶️</button>
         </div>
     </div>
 
@@ -79,6 +83,9 @@
             <button onclick="returnToApp()" class="terminal-button">Return to App</button>
         </div>
     </div>
+
+    <!-- Audio player (hidden) -->
+    <audio id="background-music" src="wakeup.mp3" loop></audio>
 
     <script src="script.js"></script>
 </body>

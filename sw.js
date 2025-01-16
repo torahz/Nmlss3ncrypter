@@ -5,6 +5,7 @@ const urlsToCache = [
     '/styles.css',
     '/script.js',
     '/manifest.json',
+    '/wakeup.mp3',
     'https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js',
     'https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js'
 ];

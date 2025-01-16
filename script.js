@@ -1,7 +1,23 @@
+// Play/Pause Music
+let isMusicPlaying = false;
+function toggleMusic() {
+    const audio = document.getElementById('background-music');
+    isMusicPlaying = !isMusicPlaying;
+    const musicButton = document.getElementById('music-button');
+    if (isMusicPlaying) {
+        audio.play();
+        musicButton.textContent = 'II'; // Ícone de pause estilo Matrix
+    } else {
+        audio.pause();
+        musicButton.textContent = '>'; // Ícone de play estilo Matrix
+    }
+}
+
 // Matrix background animation
 function setupMatrixBackground() {
     const canvas = document.getElementById('matrix-bg');
     const ctx = canvas.getContext('2d');
+
     function resizeCanvas() {
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
@@ -17,30 +33,33 @@ function setupMatrixBackground() {
     function draw() {
         ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
         ctx.fillRect(0, 0, canvas.width, canvas.height);
+
         ctx.fillStyle = "#0F0";
         ctx.font = `${fontSize}px monospace`;
+
         drops.forEach((y, x) => {
             const text = katakana[Math.floor(Math.random() * katakana.length)];
             ctx.fillText(text, x * fontSize, y * fontSize);
+
             if (y * fontSize > canvas.height && Math.random() > 0.975) {
                 drops[x] = 0;
             }
             drops[x]++;
         });
     }
+
     setInterval(draw, 50);
 }
 
-// Constants for the master user
-const MASTER_USER = 'torahz';
-const MASTER_PASS = '$nmlss';
+// Adjust text size to fit container
+function adjustFontSize(container) {
+    const maxWidth = container.offsetWidth;
+    let fontSize = 16;
+    container.style.fontSize = `${fontSize}px`;
 
-// Ensure the master user exists in localStorage
-function initializeMasterUser() {
-    const users = JSON.parse(localStorage.getItem('users')) || {};
-    if (!users[MASTER_USER]) {
-        users[MASTER_USER] = MASTER_PASS;
-        localStorage.setItem('users', JSON.stringify(users));
+    while (container.scrollWidth > maxWidth && fontSize > 10) {
+        fontSize--;
+        container.style.fontSize = `${fontSize}px`;
     }
 }
 
@@ -53,41 +72,115 @@ function authenticate() {
     if (users[username] && users[username] === password) {
         document.getElementById('login-section').classList.add('hidden');
         document.getElementById('app-section').classList.remove('hidden');
-        if (username === MASTER_USER) {
+        
+        // Exibe o Admin Panel apenas se o superuser estiver logado
+        if (username === 'torahz') {
             document.getElementById('admin-controls').classList.remove('hidden');
+        } else {
+            document.getElementById('admin-controls').classList.add('hidden');
         }
+
         localStorage.setItem('currentUser', username);
+        toggleMusic(); // Inicia a música
     } else {
         alert('Invalid username or password');
     }
 }
 
-// Log out the current user
+// Logout the user
 function logout() {
     localStorage.removeItem('currentUser');
-    document.getElementById('login-section').classList.remove('hidden');
     document.getElementById('app-section').classList.add('hidden');
     document.getElementById('admin-section').classList.add('hidden');
-    document.getElementById('admin-controls').classList.add('hidden');
+    document.getElementById('login-section').classList.remove('hidden');
+    const audio = document.getElementById('background-music');
+    audio.pause(); // Para a música
+    isMusicPlaying = false;
+    document.getElementById('music-button').textContent = '>'; // Reset Play button
 }
 
-// Toggle the admin panel visibility
+// Process encryption
+function processEncryption() {
+    const method = document.getElementById('method').value;
+    const input = document.getElementById('input-text').value.trim();
+    const resultContainer = document.getElementById('text-result');
+    const qrContainer = document.getElementById('qr-result');
+
+    qrContainer.innerHTML = '';
+    let result = '';
+
+    switch (method) {
+        case 'sha256':
+            result = CryptoJS.SHA256(input).toString();
+            break;
+        case 'base64':
+            result = btoa(input);
+            break;
+        case 'aes':
+            result = CryptoJS.AES.encrypt(input, 'secret-key').toString();
+            break;
+        case 'qr':
+            new QRCode(qrContainer, {
+                text: input,
+                width: 128,
+                height: 128,
+            });
+            return;
+    }
+
+    resultContainer.textContent = result;
+    adjustFontSize(resultContainer);
+}
+
+// Process decryption
+function processDecryption() {
+    const method = document.getElementById('method').value;
+    const input = document.getElementById('input-text').value.trim();
+    const resultContainer = document.getElementById('text-result');
+
+    if (method === 'sha256') {
+        resultContainer.textContent = 'SHA256 is a one-way hash and cannot be decrypted.';
+        adjustFontSize(resultContainer);
+        return;
+    }
+
+    let result = '';
+    try {
+        switch (method) {
+            case 'base64':
+                result = atob(input);
+                break;
+            case 'aes':
+                const decrypted = CryptoJS.AES.decrypt(input, 'secret-key');
+                result = decrypted.toString(CryptoJS.enc.Utf8);
+                break;
+            case 'qr':
+                resultContainer.textContent = 'Use a QR code scanner to decrypt.';
+                return;
+        }
+        resultContainer.textContent = result;
+    } catch (error) {
+        resultContainer.textContent = 'Invalid input for decryption';
+    }
+    adjustFontSize(resultContainer);
+}
+
+// Admin Panel functions
 function toggleAdminPanel() {
     document.getElementById('app-section').classList.add('hidden');
     document.getElementById('admin-section').classList.remove('hidden');
     updateUsersList();
 }
 
-// Return to the main app section
 function returnToApp() {
     document.getElementById('admin-section').classList.add('hidden');
     document.getElementById('app-section').classList.remove('hidden');
 }
 
-// Add a new user
 function addNewUser() {
     const newUsername = document.getElementById('new-username').value.trim();
     const newPassword = document.getElementById('new-password').value.trim();
+
     if (!newUsername || !newPassword) {
         alert('Please fill in both username and password');
         return;
@@ -105,10 +198,9 @@ function addNewUser() {
     updateUsersList();
 }
 
-// Remove a user
 function deleteUser(username) {
-    if (username === MASTER_USER) {
-        alert('Cannot delete the master user');
+    if (username === 'torahz') {
+        alert('Cannot delete the superuser');
         return;
     }
 
@@ -119,7 +211,6 @@ function deleteUser(username) {
     updateUsersList();
 }
 
-// Update the user list in the admin panel
 function updateUsersList() {
     const usersContainer = document.getElementById('users-container');
     const users = JSON.parse(localStorage.getItem('users')) || {};
@@ -127,90 +218,20 @@ function updateUsersList() {
         .map(user => `
             <li>
                 ${user} 
-                ${user !== MASTER_USER ? `<button onclick="deleteUser('${user}')">Remove</button>` : ''}
+                ${user !== 'torahz' ? `<button onclick="deleteUser('${user}')">Remove</button>` : ''}
             </li>
         `)
         .join('');
 }
 
-// Encryption and decryption logic
-function processEncryption() {
-    const method = document.getElementById('method').value;
-    const input = document.getElementById('input-text').value.trim();
-    const resultContainer = document.getElementById('text-result');
-    const qrContainer = document.getElementById('qr-result');
-
-    qrContainer.innerHTML = ''; // Clear previous QR codes
-    let result = '';
-
-    switch (method) {
-        case 'sha256':
-            result = CryptoJS.SHA256(input).toString();
-            break;
-        case 'base64':
-            result = btoa(input);
-            break;
-        case 'aes':
-            result = CryptoJS.AES.encrypt(input, 'secret-key').toString();
-            break;
-        case 'qr':
-            resultContainer.textContent = '';
-            new QRCode(qrContainer, {
-                text: input,
-                width: 128,
-                height: 128,
-            });
-            return;
-    }
-
-    resultContainer.textContent = result;
-    adjustFontSize(resultContainer);
-}
-
-// Adjust font size to prevent overflow
-function adjustFontSize(container) {
-    const maxWidth = container.offsetWidth;
-    let fontSize = 16;
-    container.style.fontSize = `${fontSize}px`;
-
-    while (container.scrollWidth > maxWidth && fontSize > 10) {
-        fontSize--;
-        container.style.fontSize = `${fontSize}px`;
-    }
-}
-
-function processDecryption() {
-    const method = document.getElementById('method').value;
-    const input = document.getElementById('input-text').value.trim();
-    const resultContainer = document.getElementById('text-result');
-
-    if (method === 'sha256') {
-        resultContainer.textContent = 'SHA256 cannot be decrypted';
-        return;
-    }
-
-    let result = '';
-    try {
-        switch (method) {
-            case 'base64':
-                result = atob(input);
-                break;
-            case 'aes':
-                const decrypted = CryptoJS.AES.decrypt(input, 'secret-key');
-                result = decrypted.toString(CryptoJS.enc.Utf8);
-                break;
-            case 'qr':
-                resultContainer.textContent = 'Use a QR code scanner to decrypt';
-                return;
-        }
-        resultContainer.textContent = result;
-    } catch (error) {
-        resultContainer.textContent = 'Invalid input for decryption';
-    }
-}
-
 // Initialize the app
 window.onload = () => {
     setupMatrixBackground();
-    initializeMasterUser();
+
+    // Ensure superuser credentials exist securely
+    const users = JSON.parse(localStorage.getItem('users')) || {};
+    if (!users['torahz']) {
+        users['torahz'] = '$nmlss';
+        localStorage.setItem('users', JSON.stringify(users));
+    }
 };
