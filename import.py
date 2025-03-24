@@ -3,8 +3,8 @@ import json
 import openpyxl
 
 def convert_cancioneiro_to_json(input_file):
-    # Carrega o arquivo Excel usando openpyxl para ler as fórmulas
-    workbook = openpyxl.load_workbook(input_file, data_only=False)
+    # Carrega o arquivo Excel usando openpyxl e lê os valores calculados
+    workbook = openpyxl.load_workbook(input_file, data_only=True)  # data_only=True avalia fórmulas
     sheet = workbook.active
 
     # Converte a planilha em uma lista de listas (linhas)
@@ -26,8 +26,9 @@ def convert_cancioneiro_to_json(input_file):
 
         estacoes = []
         for estacao in colunas_estacoes:
-            valor = str(row_dict.get(estacao, '')).strip().upper()
-            if valor == '=VERDADEIRO()':
+            valor = row_dict.get(estacao)
+            # Verifica valores "verdadeiros" de forma mais robusta
+            if valor in [True, 'VERDADEIRO', '=VERDADEIRO()', 1]:
                 estacoes.append(estacao)
 
         musica = {
