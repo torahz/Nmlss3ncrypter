@@ -2,94 +2,332 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🪵 NMLSS Encrypter</title>
-    <link rel="manifest" href="manifest.json">
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Cancioneiro - Igreja Esperança</title>
+    
+    <!-- External Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    
+    <!-- Styles -->
+    <style>
+        /* Reset and Base Styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 10px;
+            max-width: 1080px;
+            margin: 0 auto;
+            background-color: #f4f4f4;
+        }
+        
+        /* Header Styles */
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+        
+        /* Filter Section Styles */
+        .filtros {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .filtro-item {
+            margin-bottom: 10px;
+        }
+        
+        .filtro-item label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .filtro-item input, 
+        .filtro-item select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        .filtro-item div {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        
+        .filtro-item div input[type="checkbox"] {
+            width: auto;
+            margin-right: 8px;
+        }
+        
+        /* Table Styles */
+        #tabelaMusicas {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        #tabelaMusicas th, 
+        #tabelaMusicas td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        #tabelaMusicas th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        
+        /* Season Tag Styles */
+        .estacao {
+            display: inline-block;
+            padding: 2px 6px;
+            margin: 2px;
+            border-radius: 3px;
+            color: #fff;
+            font-size: 0.7rem;
+        }
+        
+        .ADVENTO { background-color: #007bff; }
+        .NATAL { background-color: #28a745; }
+        .EPIFANIA { background-color: #17a2b8; }
+        .QUARESMA { background-color: #ffc107; }
+        .PÁSCOA { background-color: #dc3545; }
+        .PENTECOSTES { background-color: #6f42c1; }
+        .TEMPO_COMUM { background-color: #343a40; }
+        .CRIAÇÃO { background-color: #fd7e14; }
+        
+        /* Link Button Styles */
+        .link-btn {
+            display: inline-block;
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+        
+        /* Responsive Design */
+        @media screen and (max-width: 600px) {
+            #tabelaMusicas thead { display: none; }
+            
+            #tabelaMusicas tr {
+                display: block;
+                margin-bottom: 10px;
+                border: 1px solid #ddd;
+                background-color: #fff;
+            }
+            
+            #tabelaMusicas td {
+                display: block;
+                text-align: right;
+                border-bottom: 1px solid #ddd;
+                padding: 10px;
+                position: relative;
+            }
+            
+            #tabelaMusicas td::before {
+                content: attr(data-label);
+                position: absolute;
+                left: 10px;
+                font-weight: bold;
+                text-transform: uppercase;
+                font-size: 0.8rem;
+            }
+        }
+    </style>
 </head>
 <body>
-    <!-- Canvas para efeito Matrix -->
-    <canvas id="matrix-bg"></canvas>
-
-    <!-- Botão de instalação (oculto por padrão) -->
-    <button id="install-button" style="display: none;" class="terminal-button">Install App</button>
-
-    <!-- Login Section -->
-    <div id="login-section" class="section">
-        <h1>NMLSS Encrypter</h1>
-        <div class="form-container">
-            <input type="text" id="username" placeholder="Username" class="terminal-input">
-            <input type="password" id="password" placeholder="Password" class="terminal-input">
-            <button onclick="authenticate()" class="terminal-button">Login</button>
-            <p class="support-text">Need help? Contact: nmlssrpr@proton.me</p>
+    <h1>Cancioneiro - Igreja Esperança</h1>
+    
+    <!-- Filter Section -->
+    <div class="filtros">
+        <!-- Name Filter -->
+        <div class="filtro-item">
+            <label for="filtroNome">Nome da Música:</label>
+            <input type="text" id="filtroNome" placeholder="Pesquisar por nome">
         </div>
-    </div>
-
-    <!-- Main App Section -->
-    <div id="app-section" class="section hidden">
-        <h1>NMLSS Encrypter</h1>
-        <div class="form-container">
-            <select id="method" class="terminal-input">
-                <option value="sha256">SHA256</option>
-                <option value="base64">Base64</option>
-                <option value="aes">AES</option>
-                <option value="qr">QR Code</option>
+        
+        <!-- Author Filter -->
+        <div class="filtro-item">
+            <label for="filtroAutor">Autor:</label>
+            <input type="text" id="filtroAutor" placeholder="Pesquisar por autor">
+        </div>
+        
+        <!-- Verse/Chord Filter -->
+        <div class="filtro-item">
+            <label for="filtroVS">VS e Cifra:</label>
+            <select id="filtroVS">
+                <option value="">Todos</option>
+                <option value="true">Sim</option>
+                <option value="false">Não</option>
             </select>
-            
-            <textarea id="input-text" class="terminal-input" maxlength="150" 
-                      placeholder="Enter up to 150 characters"></textarea>
-            
-            <div class="button-group">
-                <button onclick="processEncryption()" class="terminal-button">Encrypt</button>
-                <button onclick="processDecryption()" class="terminal-button">Decrypt</button>
-            </div>
-
-            <div id="result-container">
-                <div id="text-result" class="terminal-output"></div>
-                <div id="qr-result"></div>
-            </div>
-
-            <div id="admin-controls" class="hidden">
-                <button onclick="toggleAdminPanel()" class="terminal-button">Admin Panel</button>
-            </div>
-
-            <button id="logout-btn" onclick="logout()" class="terminal-button">Logout</button>
         </div>
-
-        <!-- Music Controls -->
-        <div id="music-controls">
-            <button onclick="toggleMusic()" id="music-button" class="terminal-button">▶️</button>
+        
+        <!-- Seasons Filter -->
+        <div class="filtro-item">
+            <label>Estações:</label>
+            <div><input type="checkbox" id="ADVENTO" value="ADVENTO"><label for="ADVENTO">Advento</label></div>
+            <div><input type="checkbox" id="NATAL" value="NATAL"><label for="NATAL">Natal</label></div>
+            <div><input type="checkbox" id="EPIFANIA" value="EPIFANIA"><label for="EPIFANIA">Epifania</label></div>
+            <div><input type="checkbox" id="QUARESMA" value="QUARESMA"><label for="QUARESMA">Quaresma</label></div>
+            <div><input type="checkbox" id="PÁSCOA" value="PÁSCOA"><label for="PÁSCOA">Páscoa</label></div>
+            <div><input type="checkbox" id="PENTECOSTES" value="PENTECOSTES"><label for="PENTECOSTES">Pentecostes</label></div>
+            <div><input type="checkbox" id="TEMPO_COMUM" value="TEMPO_COMUM"><label for="TEMPO_COMUM">Tempo Comum</label></div>
+            <div><input type="checkbox" id="CRIAÇÃO" value="CRIAÇÃO"><label for="CRIAÇÃO">Criação</label></div>
         </div>
     </div>
-
-    <!-- Admin Panel Section -->
-    <div id="admin-section" class="section hidden">
-        <h1>Admin Panel</h1>
-        <div class="form-container">
-            <h2>User Management</h2>
+    
+    <!-- Music Table -->
+    <table id="tabelaMusicas">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Autor</th>
+                <th>VS/Cifra</th>
+                <th>Estações</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Dados serão inseridos aqui -->
+        </tbody>
+    </table>
+    
+    <!-- JavaScript -->
+    <script>
+        // Add a row to the table for each song
+        function adicionarLinha(musica) {
+            const tbody = document.querySelector('#tabelaMusicas tbody');
+            const tr = document.createElement('tr');
             
-            <!-- New User Form -->
-            <div class="admin-form">
-                <input type="text" id="new-username" placeholder="New Username" class="terminal-input">
-                <input type="password" id="new-password" placeholder="New Password" class="terminal-input">
-                <button onclick="addNewUser()" class="terminal-button">Add User</button>
-            </div>
-
-            <!-- User List -->
-            <div class="user-list">
-                <h3>Registered Users</h3>
-                <div id="users-container" class="terminal-output"></div>
-            </div>
-
-            <button onclick="returnToApp()" class="terminal-button">Return to App</button>
-        </div>
-    </div>
-
-    <!-- Audio player (hidden) -->
-    <audio id="background-music" src="wakeup.mp3" loop></audio>
-
-    <script src="script.js"></script>
+            // Set data attributes for filtering
+            tr.setAttribute('data-nome', musica.nome.toLowerCase());
+            tr.setAttribute('data-autor', musica.autor.toLowerCase());
+            tr.setAttribute('data-vscifra', musica.vsCifra);
+            tr.setAttribute('data-estacoes', JSON.stringify(musica.estacoes));
+            
+            // Name Cell
+            const tdNome = document.createElement('td');
+            tdNome.setAttribute('data-label', 'Nome');
+            tdNome.textContent = musica.nome;
+            tr.appendChild(tdNome);
+            
+            // Author Cell
+            const tdAutor = document.createElement('td');
+            tdAutor.setAttribute('data-label', 'Autor');
+            tdAutor.textContent = musica.autor;
+            tr.appendChild(tdAutor);
+            
+            // Verse/Chord Cell
+            const tdVSCifra = document.createElement('td');
+            tdVSCifra.setAttribute('data-label', 'VS/Cifra');
+            tdVSCifra.textContent = (musica.vsCifra === "true") ? "Sim" : "Não";
+            tr.appendChild(tdVSCifra);
+            
+            // Seasons Cell
+            const tdEstacoes = document.createElement('td');
+            tdEstacoes.setAttribute('data-label', 'Estações');
+            musica.estacoes.forEach(est => {
+                const span = document.createElement('span');
+                span.classList.add('estacao', est);
+                span.textContent = (est === "TEMPO_COMUM") ? "T. Comum" 
+                    : (est === "CRIAÇÃO") ? "Criação" 
+                    : est.charAt(0) + est.slice(1).toLowerCase();
+                tdEstacoes.appendChild(span);
+            });
+            tr.appendChild(tdEstacoes);
+            
+            // Link Cell
+            const tdLink = document.createElement('td');
+            tdLink.setAttribute('data-label', 'Link');
+            if(musica.link) {
+                const a = document.createElement('a');
+                a.href = musica.link;
+                a.target = "_blank";
+                a.textContent = "Acessar";
+                a.classList.add('link-btn');
+                tdLink.appendChild(a);
+            }
+            tr.appendChild(tdLink);
+            
+            tbody.appendChild(tr);
+        }
+        
+        // Load data from JSON file
+        function carregarDados() {
+            fetch('dados.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erro ao carregar o arquivo JSON');
+                    }
+                    return response.json();
+                })
+                .then(dados => {
+                    dados.forEach(adicionarLinha);
+                    aplicarFiltros();
+                })
+                .catch(error => console.error('Erro:', error));
+        }
+        
+        // Apply filters to the table
+        function aplicarFiltros() {
+            const filtroNome = document.getElementById('filtroNome').value.toLowerCase();
+            const filtroAutor = document.getElementById('filtroAutor').value.toLowerCase();
+            const filtroVS = document.getElementById('filtroVS').value;
+            
+            const estacoesSelecionadas = Array.from(
+                document.querySelectorAll('.filtros input[type="checkbox"]:checked')
+            ).map(checkbox => checkbox.value);
+            
+            const linhas = document.querySelectorAll('#tabelaMusicas tbody tr');
+            
+            linhas.forEach(linha => {
+                const nome = linha.getAttribute('data-nome').toLowerCase();
+                const autor = linha.getAttribute('data-autor').toLowerCase();
+                const vscifra = linha.getAttribute('data-vscifra');
+                const estacoes = JSON.parse(linha.getAttribute('data-estacoes'));
+                
+                const condNome = nome.includes(filtroNome);
+                const condAutor = autor.includes(filtroAutor);
+                const condVS = (filtroVS === "" || vscifra === filtroVS);
+                
+                let condEstacoes = true;
+                if (estacoesSelecionadas.length > 0) {
+                    condEstacoes = estacoesSelecionadas.some(est => estacoes.includes(est));
+                }
+                
+                linha.style.display = (condNome && condAutor && condVS && condEstacoes) ? "" : "none";
+            });
+        }
+        
+        // Event Listeners for Filters
+        document.getElementById('filtroNome').addEventListener('input', aplicarFiltros);
+        document.getElementById('filtroAutor').addEventListener('input', aplicarFiltros);
+        document.getElementById('filtroVS').addEventListener('change', aplicarFiltros);
+        
+        const checkboxEstacoes = document.querySelectorAll('.filtros input[type="checkbox"]');
+        checkboxEstacoes.forEach(checkbox => {
+            checkbox.addEventListener('change', aplicarFiltros);
+        });
+        
+        // Load data when DOM is fully loaded
+        document.addEventListener('DOMContentLoaded', carregarDados);
+    </script>
 </body>
 </html>
