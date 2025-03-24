@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
   <title>Cancioneiro - Igreja Esperança</title>
 
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="manifest.json">
+
+  <!-- iOS support -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="apple-touch-icon" href="logo-192.png">
+
   <!-- Se não estiver usando recursos do xlsx, pode remover -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
@@ -128,9 +136,27 @@
       border-radius: 4px;
       font-size: 0.8rem;
     }
+    /* Offline notification */
+    #offline-notification {
+      display: none;
+      background-color: #f44336;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+    }
   </style>
 </head>
 <body>
+  <!-- Offline Notification -->
+  <div id="offline-notification">
+    Você está offline. Algumas funcionalidades podem estar limitadas.
+  </div>
+
   <h1>Cancioneiro - Igreja Esperança</h1>
 
   <!-- Filtros -->
@@ -328,6 +354,37 @@
 
     // Quando a página carrega, chama carregarDados
     document.addEventListener('DOMContentLoaded', carregarDados);
+
+    // Service Worker Registration
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/service-worker.js')
+          .then((registration) => {
+            console.log('Service Worker registered successfully:', registration.scope);
+          })
+          .catch((error) => {
+            console.log('Service Worker registration failed:', error);
+          });
+      });
+    }
+
+    // Offline Detection
+    function checkOnlineStatus() {
+      const offlineNotification = document.getElementById('offline-notification');
+      
+      if (!navigator.onLine) {
+        offlineNotification.style.display = 'block';
+      } else {
+        offlineNotification.style.display = 'none';
+      }
+    }
+
+    // Check online/offline status
+    window.addEventListener('online', checkOnlineStatus);
+    window.addEventListener('offline', checkOnlineStatus);
+    
+    // Initial check
+    checkOnlineStatus();
   </script>
 </body>
 </html>
