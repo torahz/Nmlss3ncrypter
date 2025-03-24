@@ -10,7 +10,7 @@
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -24,35 +24,35 @@
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "MINISTÉRIO KOINONYA",
     "autor": "MINISTÉRIO KOINONYA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "MICHAEL SMITH",
     "autor": "MICHAEL SMITH",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -73,7 +73,7 @@
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -94,7 +94,7 @@
     "nome": "Stenius Marcius",
     "autor": "Stenius Marcius",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -108,21 +108,21 @@
     "nome": "ADHEMAR DE CAMPOS",
     "autor": "ADHEMAR DE CAMPOS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Lucas Sousa",
     "autor": "Lucas Sousa",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -136,7 +136,7 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -157,28 +157,28 @@
     "nome": "ALINE BARROS",
     "autor": "ALINE BARROS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ADHEMAR DE CAMPOS",
     "autor": "ADHEMAR DE CAMPOS",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Renascer Prayse",
     "autor": "Renascer Prayse",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -220,7 +220,7 @@
     "nome": "HINO CANTOR CRISTÃO",
     "autor": "HINO CANTOR CRISTÃO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -248,35 +248,35 @@
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "JOÃO ALEXANDRE",
     "autor": "JOÃO ALEXANDRE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -290,14 +290,14 @@
     "nome": "FHOPE",
     "autor": "FHOPE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ALINE BARROS",
     "autor": "ALINE BARROS",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -318,28 +318,28 @@
     "nome": "VENCEDORES POR CRISTO",
     "autor": "VENCEDORES POR CRISTO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "OS ARRAIS",
     "autor": "OS ARRAIS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ADHEMAR DE CAMPOS",
     "autor": "ADHEMAR DE CAMPOS",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -353,14 +353,14 @@
     "nome": "KOINONIA",
     "autor": "KOINONIA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Níveia Soares",
     "autor": "Níveia Soares",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -374,28 +374,28 @@
     "nome": "MARCOS GOES",
     "autor": "MARCOS GOES",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "STÊNIO MARCIUS",
     "autor": "STÊNIO MARCIUS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -416,7 +416,7 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -430,7 +430,7 @@
     "nome": "Coletivo Adoração",
     "autor": "Coletivo Adoração",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -441,8 +441,8 @@
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
     "link": "acesse.one/EuVouConstruir",
     "estacoes": []
@@ -451,7 +451,7 @@
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -472,7 +472,7 @@
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -486,42 +486,42 @@
     "nome": "Sola",
     "autor": "Sola",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Don Moen",
     "autor": "Don Moen",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ADHEMAR DE CAMPOS",
     "autor": "ADHEMAR DE CAMPOS",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ASAPH BORBA",
     "autor": "ASAPH BORBA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -535,14 +535,14 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ALINE BARROS",
     "autor": "ALINE BARROS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -556,7 +556,7 @@
     "nome": "ASAPH BORBA",
     "autor": "ASAPH BORBA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -577,21 +577,21 @@
     "nome": "MARCOS GOES",
     "autor": "MARCOS GOES",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -612,14 +612,14 @@
     "nome": "HINO",
     "autor": "HINO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -633,12 +633,12 @@
     "nome": "Nívea Soares",
     "autor": "Nívea Soares",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
     "link": "l1nk.dev/MaravilhosaGraca",
     "estacoes": []
@@ -661,7 +661,7 @@
     "nome": "VENCEDORES POR CRISTO",
     "autor": "VENCEDORES POR CRISTO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -675,14 +675,14 @@
     "nome": "ASAPH BORBA",
     "autor": "ASAPH BORBA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL DE SOUZA",
     "autor": "DANIEL DE SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -696,12 +696,12 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
     "link": "l1nk.dev/NasEstrelas",
     "estacoes": []
@@ -714,8 +714,8 @@
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
     "link": "acesse.one/NoiteDeNatal",
     "estacoes": []
@@ -728,15 +728,15 @@
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
     "link": "acesse.one/ONomeDeJesus",
     "estacoes": []
@@ -759,28 +759,28 @@
     "nome": "MARCOS GOES",
     "autor": "MARCOS GOES",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "JOÃO ALEXANDRE",
     "autor": "JOÃO ALEXANDRE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "CLÁUDIO CLARO",
     "autor": "CLÁUDIO CLARO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -794,14 +794,14 @@
     "nome": "DT",
     "autor": "DT",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ALINE BARROS",
     "autor": "ALINE BARROS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -815,7 +815,7 @@
     "nome": "Kari Jobe",
     "autor": "Kari Jobe",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -829,42 +829,42 @@
     "nome": "RESGATE",
     "autor": "RESGATE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "BIBLICA DA PAZ",
     "autor": "BIBLICA DA PAZ",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "MINISTÉRIO KOINONYA",
     "autor": "MINISTÉRIO KOINONYA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "HINO",
     "autor": "HINO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -885,21 +885,21 @@
     "nome": "PAULO CESAR BARUK",
     "autor": "PAULO CESAR BARUK",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -913,28 +913,28 @@
     "nome": "Comuniodade Zona sul",
     "autor": "Comuniodade Zona sul",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "MINISTÉRIO KOINONYA",
     "autor": "MINISTÉRIO KOINONYA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ALINE BARROS",
     "autor": "ALINE BARROS",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -948,49 +948,49 @@
     "nome": "PROJETO SOLA",
     "autor": "PROJETO SOLA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ANDRÉ VALADÃO",
     "autor": "ANDRÉ VALADÃO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "NAIELLY LEITE",
     "autor": "NAIELLY LEITE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Ana Paula Nobrega",
     "autor": "Ana Paula Nobrega",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1011,7 +1011,7 @@
     "nome": "HELOÍSA ROSA",
     "autor": "HELOÍSA ROSA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1025,14 +1025,14 @@
     "nome": "MINISTÉRIO KOINONYA",
     "autor": "MINISTÉRIO KOINONYA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1046,7 +1046,7 @@
     "nome": "GUILHERME KERR",
     "autor": "GUILHERME KERR",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1060,7 +1060,7 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1074,49 +1074,49 @@
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "PROJETO VIDA NOVA DE IRAJÁ",
     "autor": "PROJETO VIDA NOVA DE IRAJÁ",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1130,21 +1130,21 @@
     "nome": "NÍVEA SOARES",
     "autor": "NÍVEA SOARES",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VENCEDORES POR CRISTO",
     "autor": "VENCEDORES POR CRISTO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VENCEDORES POR CRISTO",
     "autor": "VENCEDORES POR CRISTO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1158,28 +1158,28 @@
     "nome": "HINO",
     "autor": "HINO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "RESGATE",
     "autor": "RESGATE",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD",
     "autor": "VINEYARD",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1193,21 +1193,21 @@
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Nivea Soares",
     "autor": "Nivea Soares",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "HINO",
     "autor": "HINO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1228,35 +1228,35 @@
     "nome": "ASAPH BORBA",
     "autor": "ASAPH BORBA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DANIEL SOUZA",
     "autor": "DANIEL SOUZA",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
-    "nome": NaN,
-    "autor": NaN,
+    "nome": "",
+    "autor": "",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "HINO",
     "autor": "HINO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VPC",
     "autor": "VPC",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1270,14 +1270,14 @@
     "nome": "DIANTE DO TRONO",
     "autor": "DIANTE DO TRONO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "DESCONHECIDO",
     "autor": "DESCONHECIDO",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1298,14 +1298,14 @@
     "nome": "CANTOVERBO",
     "autor": "CANTOVERBO",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "Elevation Worship",
     "autor": "Elevation Worship",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
@@ -1319,28 +1319,28 @@
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "IPALPHA",
     "autor": "IPALPHA",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "VINEYARD ",
     "autor": "VINEYARD ",
     "vsCifra": "false",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   },
   {
     "nome": "ISAREL HOUGHTON",
     "autor": "ISAREL HOUGHTON",
     "vsCifra": "true",
-    "link": NaN,
+    "link": "",
     "estacoes": []
   }
 ]
