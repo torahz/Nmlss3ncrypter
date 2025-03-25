@@ -1,2690 +1,2000 @@
 [
-    {
-        "NOME": "A CRIAÇÃO EM TEU LOUVOR ",
-        "AUTOR": "SAMUEL MIZRAHY",
-        "LINK KIT": "https://www.youtube.com/watch?v=qpne7vm6r30",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "A ELE A GLÓRIA",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "A ROCHA",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "l1nk.dev/A-Rocha",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "A TUA VONTADE",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ABA PAI ",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ABRA OS OLHOS DO MEU CORAÇÃO",
-        "AUTOR": "MICHAEL SMITH",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ABUNDANTE GRAÇA",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Acende o fogo em mim",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ACLAME AO SENHOR",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": "l1nk.dev/AclameAoSenhor",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ACREDITO",
-        "AUTOR": "NEWS BOYS",
-        "LINK KIT": "l1nk.dev/Acredito",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ACREDITO",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "AGNUS DEI ",
-        "AUTOR": "MICHAEL W SMITH",
-        "LINK KIT": "l1nk.dev/AgnusDei",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AJUNTAMENTO",
-        "AUTOR": "JORGE CAMARGO",
-        "LINK KIT": "https://www.youtube.com/watch?v=-khraucbor0 ",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Alguém como eu",
-        "AUTOR": "Stenius Marcius",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ALVO MAIS QUE A NEVE",
-        "AUTOR": "HINO",
-        "LINK KIT": "acesse.one/AlvoMaisQueANeve",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AMIGO DE DEUS",
-        "AUTOR": "ADHEMAR DE CAMPOS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AMIGO FIEL",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Antífona",
-        "AUTOR": "Lucas Sousa",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AO ERGUERMOS AS MÃOS",
-        "AUTOR": "NEWS BOYS",
-        "LINK KIT": "ALINE BARROS",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AO MEU LADO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "AO ÚNICO",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": "l1nk.dev/AoUnico",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ATÉ OUTRA VEZ ",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": "l1nk.dev/AteOutraVez",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "BEM MAIS QUE TUDO (ABOVE ALL)",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "BEM SUPREMO ",
-        "AUTOR": "ADHEMAR DE CAMPOS",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Bom estarmos aqui ",
-        "AUTOR": "Renascer Prayse",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "BONDADE DE DEUS ",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "BRILHA JESUS",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": "l1nk.dev/BrilhaJesus",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CANÇÃO DO APOCALIPSE",
-        "AUTOR": "HILSONG",
-        "LINK KIT": "l1nk.dev/CancaoDoAPC",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "CANTA MINHA ALMA (BEHOLD)",
-        "AUTOR": "HILSONG, VERSÃO KEMUEL",
-        "LINK KIT": "https://www.youtube.com/watch?v=vbljze53vje",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CANTAI AO SENHOR (UM CÂNTICO NOVO)",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": "l1nk.dev/CantaiAoSenhor",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CANTAREI TEU AMOR PRA SEMPRE",
-        "AUTOR": "ADORAÇÃO E ADORADORES",
-        "LINK KIT": " https://www.youtube.com/watch?v=gs-peqktib8",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CASTELO FORTE",
-        "AUTOR": "HINO CANTOR CRISTÃO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CHAMAS MEU NOME ",
-        "AUTOR": "BETO TAVARES ",
-        "LINK KIT": "https://www.youtube.com/watch?v=2egg-zqqwde",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "COLOSSENSES 1",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": "acesse.one/Colossences1",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "CONFIANÇA ",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": "acesse.one/ConfiancA",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Confissões ",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CORAÇÃO IGUAL AO TEU",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "CREDO APOSTÓLICO",
-        "AUTOR": "JOÃO ALEXANDRE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Cristo Esperança",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DA VIDA, O MELHOR",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DEUS DE AMOR",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": "https://www.youtube.com/watch?v=-mqv7fvplzq",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Deus Zeloso",
-        "AUTOR": "FHOPE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DIANTE DA CRUZ",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DIGNO",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": "l1nk.dev/DignoKoynonya",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DIGNO É O SENHOR",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": "l1nk.dev/DignoEoSenhor",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "DOCE NOME",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Eis o Dia",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ELE É",
-        "AUTOR": "OS ARRAIS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ELE É EXALTADO",
-        "AUTOR": "ADHEMAR DE CAMPOS",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "EM CRISTO SÓ CONFIAREI",
-        "AUTOR": "KEITH GETTY",
-        "LINK KIT": "https://www.youtube.com/watch?v=ybtccqo8xgk",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "EM ESPÍRITO, EM VERDADE (Meu Prazer)",
-        "AUTOR": "KOINONIA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Em Tua presença ",
-        "AUTOR": "Níveia Soares",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ENTREGA ",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "acesse.one/Entrega",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ÉS A NOSSA ESTRELA DA MANHÃ",
-        "AUTOR": "MARCOS GOES",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "És o Rei que vem",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ESCUDO E PROTEÇÃO",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ESTÁ CONSUMADO",
-        "AUTOR": "STÊNIO MARCIUS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ESTRE REINO ",
-        "AUTOR": "DT",
-        "LINK KIT": "l1nk.dev/EsteReino",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ETERNO DEUS ",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "acesse.one/EternoDeus",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "EU CREIO EM JESUS",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "EU JAMAIS SEREI O MESMO ",
-        "AUTOR": "DT",
-        "LINK KIT": "acesse.one/EuJamaisSerei",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Eu me rendo",
-        "AUTOR": "Coletivo Adoração",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "EU TAMBÉM ",
-        "AUTOR": "HILLSONG",
-        "LINK KIT": "https://www.youtube.com/watch?v=h5plfizkr5a",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "EU VOU CONSTRUIR ",
-        "AUTOR": null,
-        "LINK KIT": "acesse.one/EuVouConstruir",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "FILHO DE DEUS",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "FILHO DE DEUS (SON OF GOD) ",
-        "AUTOR": "HILLSONG",
-        "LINK KIT": "https://www.youtube.com/watch?v=rscsuycbnng",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "FIRME NAS PROMESSAS",
-        "AUTOR": "HINO",
-        "LINK KIT": "ANDRÉ VALADÃO",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Firmeza na Fé",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "FOI NA CRUZ",
-        "AUTOR": "HINO",
-        "LINK KIT": "ANDRÉ VALADÃO",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Forte mão",
-        "AUTOR": "Sola",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "GLORIFICAR",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Graças Dou (Thank you Lord)",
-        "AUTOR": "Don Moen",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "GRANDE É O SENHOR",
-        "AUTOR": "ADHEMAR DE CAMPOS",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "INFINITAMENTE MAIS",
-        "AUTOR": "ASAPH BORBA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ISAÍAS 53",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ISAIAS 9",
-        "AUTOR": "RODOLFO ABRANTES",
-        "LINK KIT": "acesse.one/IsaIas9",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JÁ OUVISTES MINHA VOZ",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JESUS CRISTO MUDOU MEU VIVER",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JESUS É O REI DA GLÓRIA",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": "acesse.one/JesusEoRei",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "JESUS EM TUA PRESENÇA",
-        "AUTOR": "ASAPH BORBA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JESUS PREVALECEU",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": "https://www.youtube.com/watch?v=tke3za4onbk",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JESUS TE AMAMOS ",
-        "AUTOR": "PC BARUK",
-        "LINK KIT": "l1nk.dev/JesusTeAmamos",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "JESUS TE ENTRONIZAMOS",
-        "AUTOR": "MARCOS GOES",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Jesus tudo pagou",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "LAÇOS DE AMOR",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "LOUVEMOS AO SENHOR (HOSANA)",
-        "AUTOR": "ADHEMAR DE CAMPOS",
-        "LINK KIT": "acesse.one/LouvemosAoSenhor",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "LOUVOR E HONRA (ANCIENT OF DAYS)",
-        "AUTOR": "PAULO CESAR BARUK",
-        "LINK KIT": "https://www.youtube.com/watch?v=7rddoafnkdq&list=rd7rddoafnkdq&start_radio=1",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "MAIS PERTO QUERO ESTAR",
-        "AUTOR": "HINO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MAIS QUE UM AMIGO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MARANATA ",
-        "AUTOR": "Ministério Avivah",
-        "LINK KIT": "l1nk.dev/Maranata",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Maravilhado ",
-        "AUTOR": "Nívea Soares",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MARAVILHOSA GRAÇA ",
-        "AUTOR": null,
-        "LINK KIT": "l1nk.dev/MaravilhosaGraca",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ME DERRAMAR",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "l1nk.dev/MeDerramar",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "ME LEMBRAREI ",
-        "AUTOR": "HILSONG EM PORTUGUES ",
-        "LINK KIT": "acesse.one/MeLembrarei",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MENTE E CORAÇÃO",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MEU RESPIRAR",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "VERSÃO ANTIGA",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MINH’ALMA ENGRANDECE AO SENHOR",
-        "AUTOR": "ASAPH BORBA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MONTE DO CALVÁRIO",
-        "AUTOR": "DANIEL DE SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "MUITOS VIRÃO TE LOUVAR (\"DE TODAS\")",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": "acesse.one/MuitosViraoTeLouvar",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "NADA É MAIS DIGNO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "NAS ESTRELAS ",
-        "AUTOR": null,
-        "LINK KIT": "l1nk.dev/NasEstrelas",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "NO CONTROLE",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "acesse.one/NoControle",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "NOITE DE NATAL ",
-        "AUTOR": null,
-        "LINK KIT": "acesse.one/NoiteDeNatal",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "NOSSO DEUS É SOBERANO",
-        "AUTOR": "ASAPH BORBA",
-        "LINK KIT": "l1nk.dev/NossoDeusESoberano",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "O NOITE SANTA ",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "O NOME DE JESUS ",
-        "AUTOR": null,
-        "LINK KIT": "acesse.one/ONomeDeJesus",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "OFERTA DE AMOR",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": "l1nk.dev/OfertaDeAmor",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "OH QUÃO LINDO ESSE NOME É",
-        "AUTOR": "HILSONG",
-        "LINK KIT": "https://www.youtube.com/watch?v=inct32y32jo ",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "OS QUE CONFIAM NO SENHOR",
-        "AUTOR": "MARCOS GOES",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PAI NOSSO",
-        "AUTOR": "JOÃO ALEXANDRE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PÃO DA VIDA",
-        "AUTOR": "CLÁUDIO CLARO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PERDÃO E GRAÇA",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PERTO QUERO ESTAR ",
-        "AUTOR": "MICHAEL W SMITH",
-        "LINK KIT": "acesse.one/PertoQueroEstar",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Poder do seu amor",
-        "AUTOR": "DT",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PODER PRA SALVAR",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PORQUE ELE VIVE",
-        "AUTOR": "HINO CANTOR CRISTÃO",
-        "LINK KIT": "l1nk.dev/PorqueEleVive",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Pra Sempre ",
-        "AUTOR": "Kari Jobe",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PRECISO DE TI",
-        "AUTOR": "DT",
-        "LINK KIT": "l1nk.dev/PrecisoDeTi",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "PRINCIPE ",
-        "AUTOR": "RESGATE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUANDO ENTRO EM TUA PRESENÇA",
-        "AUTOR": "BIBLICA DA PAZ",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUÃO FORMOSO ÉS",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "QUÃO GRANDE ÉS TU",
-        "AUTOR": "HINO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUÃO GRANDE ÉS TU (TU ÉS DIGNO)",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUE A PAZ DE DEUS REINE",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUEBRANTADO (PELA CRUZ)",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "l1nk.dev/Quebrantado",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUEM NOS SEPARARÁ",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": "https://www.youtube.com/watch?v=p1funaur_gk",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "QUERO LOUVAR-TE",
-        "AUTOR": "PAULO CESAR BARUK",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "QUERO SUBIR",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "REDENÇÃO (PROJETO SOLA)",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "REI DAS NAÇÕES",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": "https://www.youtube.com/watch?v=pr7diwe__5w)\nregravada: https://open.spotify.com/track/5vsqadkmliafokqif0llrf",
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "Rei Salvador (Savior King)",
-        "AUTOR": "Comuniodade Zona sul",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "REINA EM MIM",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "REINA HOJE",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "RENOVA-ME",
-        "AUTOR": "ALINE BARROS",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "RESSUCITOU",
-        "AUTOR": "ELEVATION",
-        "LINK KIT": "https://www.youtube.com/watch?v=_nk1pw1qwq4",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "RESSURREIÇÃO",
-        "AUTOR": "PROJETO SOLA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "RUDE CRUZ",
-        "AUTOR": "ANDRÉ VALADÃO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SALMO 51",
-        "AUTOR": "NAIELLY LEITE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SALVO PELA GRAÇA",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SANTO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SANTO DEUS",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Santo pra Sempre",
-        "AUTOR": "Ana Paula Nobrega",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SANTO SANTO SANTO ",
-        "AUTOR": "HOSANA MUSIC",
-        "LINK KIT": "VERSÃO RENASCER PRAYSE",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SANTO, SANTO, SANTO (DEUS ONIPOTENTE)",
-        "AUTOR": "HINO",
-        "LINK KIT": "VENCEDORES POR CRISTO (CD HINOS I)",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SE ANDARMOS NA LUZ",
-        "AUTOR": "HELOÍSA ROSA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SE ESVAZIOU",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": "https://www.youtube.com/watch?v=iq1a4oqso2g",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SE EU QUISER ADORAR A DEUS",
-        "AUTOR": "MINISTÉRIO KOINONYA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SE RENOVAM (BOM É O SENHOR...)",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SEGURANÇA (SOU DE JESUS)",
-        "AUTOR": "HINO",
-        "LINK KIT": "LETRA DO CC - 375",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SEJA ENGRANDECIDO",
-        "AUTOR": "GUILHERME KERR",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SEJA O CENTRO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "https://www.youtube.com/watch?v=udnriwk2c6y&list=rdudnriwk2c6y&start_radio=1&t=351",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SENHOR DA CRIAÇÃO",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "SENHOR FORMOSO ÉS (OH LORD, YOU'RE BEAUTIFUL)",
-        "AUTOR": "KEITH GREEN",
-        "LINK KIT": "VERSÃO MARCOS GOES",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SENHOR TE QUERO (EU TE BUSCO)",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SEU NOME É",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SÓ TENHO A TI ",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SONDA-ME",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SOU FELIZ",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TE ADORAR",
-        "AUTOR": "PROJETO VIDA NOVA DE IRAJÁ",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TE AGRADEÇO",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TESTEMUNHAR DO AMOR ",
-        "AUTOR": "AVALON",
-        "LINK KIT": "https://www.youtube.com/watch?v=hoimnl5ygvs",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "TEU AMOR NAO FALHA",
-        "AUTOR": "NÍVEA SOARES",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TEU POVO (É O TEU POVO AQUI PRESENTE)",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TEU POVO CLAMA",
-        "AUTOR": "VENCEDORES POR CRISTO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TEUS ALTARES",
-        "AUTOR": "JOÃO ALEXANDRE",
-        "LINK KIT": "https://www.youtube.com/watch?v=m_qbcrorqrc",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TOCOU-ME",
-        "AUTOR": "HINO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TODO PODER PERTENCE A JESUS",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TODO SOM",
-        "AUTOR": "RESGATE",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": true,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TODOS QUE TÊM SEDE",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TOMA O MEU CORAÇÃO (I GIVE YOU MY HEART)",
-        "AUTOR": "HILSONG, VERSÃO PRISMA ",
-        "LINK KIT": "https://www.youtube.com/watch?v=rtb27r8vvwu",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TOMA O TEU LUGAR",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Tu És bom",
-        "AUTOR": "Nivea Soares",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU ÉS FIEL, SENHOR (O DEUS FIEL)",
-        "AUTOR": "HINO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU ÉS MEU REI",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "https://www.youtube.com/watch?time_continue=13&v=zy29se111s8",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU ÉS SANTO",
-        "AUTOR": "MICHAEL SMITH",
-        "LINK KIT": "LETRA: RONALDO BEZERRA",
-        "VS E CIFRA": true,
-        "ADVENTO": true,
-        "NATAL": true,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU ÉS SOBERANO",
-        "AUTOR": "ASAPH BORBA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU ME AMASTE EM PRIMEIRO LUGAR",
-        "AUTOR": "DANIEL SOUZA",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TU VIVES ENTRE OS QUERUBINS",
-        "AUTOR": null,
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "TUDO ENTREGAREI",
-        "AUTOR": "HINO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VASO NOVO",
-        "AUTOR": "VPC",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VASOS QUEBRADOS (SUBLIME GRAÇA)",
-        "AUTOR": "HILSONG EM PORTUGUES ",
-        "LINK KIT": "https://www.youtube.com/watch?v=_ahfl-ofam8",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VEM DE TI, SENHOR",
-        "AUTOR": "DIANTE DO TRONO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VEM LOUVAR (HOJE É TEMPO DE LOUVAR)",
-        "AUTOR": "DESCONHECIDO",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VEM, ESTÁ É A HORA",
-        "AUTOR": "VINEYARD",
-        "LINK KIT": "ALTERAR LETRA \"A TI RESPONDER\"",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VENCENDO VEM JESUS",
-        "AUTOR": "HINO",
-        "LINK KIT": "https://www.youtube.com/watch?v=rs6mnkndfmu ",
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VENHA SOBRE NÓS",
-        "AUTOR": "CANTOVERBO",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": true,
-        "QUARESMA": false,
-        "PASCOA": true,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Vida aos sepulcros ",
-        "AUTOR": "Elevation Worship",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VIM PARA ADORAR-TE",
-        "AUTOR": "MICHAEL SMITH",
-        "LINK KIT": "música: https://www.youtube.com/watch?v=coxopsrsfdu) / quatro por um (letra)",
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": true,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "Vinho e Pão",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "VÓS CRIATURAS DE DEUS PAI ",
-        "AUTOR": "IPALPHA",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": true,
-        "TEMPO COMUM": true,
-        "CRIACAO": true
-    },
-    {
-        "NOME": "QUERO TANTO AGRADECER",
-        "AUTOR": "VINEYARD ",
-        "LINK KIT": null,
-        "VS E CIFRA": false,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    },
-    {
-        "NOME": "SENHOR TU ÉS BOM",
-        "AUTOR": "ISAREL HOUGHTON",
-        "LINK KIT": null,
-        "VS E CIFRA": true,
-        "ADVENTO": false,
-        "NATAL": false,
-        "EPIFANIA": false,
-        "QUARESMA": false,
-        "PASCOA": false,
-        "PENTECOSTES": false,
-        "TEMPO COMUM": false,
-        "CRIACAO": false
-    }
+  {
+    "nome": "A CRIAÇÃO EM TEU LOUVOR",
+    "autor": "SAMUEL MIZRAHY",
+    "link": "https://www.youtube.com/watch?v=qpne7vm6r30",
+    "vsCifra": false,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "A ELE A GLÓRIA",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "EPIFANIA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "A ROCHA",
+    "autor": "VINEYARD",
+    "link": "l1nk.dev/A-Rocha",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "A TUA VONTADE",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": []
+  },
+  {
+    "nome": "ABA PAI",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ABRA OS OLHOS DO MEU CORAÇÃO",
+    "autor": "MICHAEL SMITH",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ABUNDANTE GRAÇA",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Acende o fogo em mim",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "ACLAME AO SENHOR",
+    "autor": "DIANTE DO TRONO",
+    "link": "l1nk.dev/AclameAoSenhor",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ACREDITO",
+    "autor": "NEWS BOYS",
+    "link": "l1nk.dev/Acredito",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ACREDITO",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "AGNUS DEI",
+    "autor": "MICHAEL W SMITH",
+    "link": "l1nk.dev/AgnusDei",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AJUNTAMENTO",
+    "autor": "JORGE CAMARGO",
+    "link": "https://www.youtube.com/watch?v=-khraucbor0",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Alguém como eu",
+    "autor": "Stenius Marcius",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "ALVO MAIS QUE A NEVE",
+    "autor": "HINO",
+    "link": "acesse.one/AlvoMaisQueANeve",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AMIGO DE DEUS",
+    "autor": "ADHEMAR DE CAMPOS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PENTECOSTES"
+    ]
+  },
+  {
+    "nome": "AMIGO FIEL",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Antífona",
+    "autor": "Lucas Sousa",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "AO ERGUERMOS AS MÃOS",
+    "autor": "NEWS BOYS",
+    "link": "ALINE BARROS",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AO MEU LADO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AO ÚNICO",
+    "autor": "ALINE BARROS",
+    "link": "l1nk.dev/AoUnico",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "EPIFANIA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ATÉ OUTRA VEZ",
+    "autor": "PROJETO SOLA",
+    "link": "l1nk.dev/AteOutraVez",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "BEM MAIS QUE TUDO (ABOVE ALL)",
+    "autor": "ALINE BARROS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "NATAL",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "BEM SUPREMO",
+    "autor": "ADHEMAR DE CAMPOS",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Bom estarmos aqui",
+    "autor": "Renascer Prayse",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "BONDADE DE DEUS",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "BRILHA JESUS",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "l1nk.dev/BrilhaJesus",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CANÇÃO DO APOCALIPSE",
+    "autor": "HILSONG",
+    "link": "l1nk.dev/CancaoDoAPC",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "CANTA MINHA ALMA (BEHOLD)",
+    "autor": "HILSONG, VERSÃO KEMUEL",
+    "link": "https://www.youtube.com/watch?v=vbljze53vje",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CANTAI AO SENHOR (UM CÂNTICO NOVO)",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "l1nk.dev/CantaiAoSenhor",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CANTAREI TEU AMOR PRA SEMPRE",
+    "autor": "ADORAÇÃO E ADORADORES",
+    "link": "https://www.youtube.com/watch?v=gs-peqktib8",
+    "vsCifra": false,
+    "estacoes": [
+      "NATAL",
+      "EPIFANIA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CASTELO FORTE",
+    "autor": "HINO CANTOR CRISTÃO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CHAMAS MEU NOME",
+    "autor": "BETO TAVARES",
+    "link": "https://www.youtube.com/watch?v=2egg-zqqwde",
+    "vsCifra": false,
+    "estacoes": [
+      "NATAL",
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "COLOSSENSES 1",
+    "autor": "PROJETO SOLA",
+    "link": "acesse.one/Colossences1",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "EPIFANIA",
+      "PASCOA",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "CONFIANÇA",
+    "autor": "PROJETO SOLA",
+    "link": "acesse.one/ConfiancA",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Confissões",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "CORAÇÃO IGUAL AO TEU",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CREDO APOSTÓLICO",
+    "autor": "JOÃO ALEXANDRE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Cristo Esperança",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "DA VIDA, O MELHOR",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "DEUS DE AMOR",
+    "autor": "DIANTE DO TRONO",
+    "link": "https://www.youtube.com/watch?v=-mqv7fvplzq",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Deus Zeloso",
+    "autor": "FHOPE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": []
+  },
+  {
+    "nome": "DIANTE DA CRUZ",
+    "autor": "ALINE BARROS",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "DIGNO",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "l1nk.dev/DignoKoynonya",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "DIGNO É O SENHOR",
+    "autor": "ALINE BARROS",
+    "link": "l1nk.dev/DignoEoSenhor",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "DOCE NOME",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Eis o Dia",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "ELE É",
+    "autor": "OS ARRAIS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ELE É EXALTADO",
+    "autor": "ADHEMAR DE CAMPOS",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "EM CRISTO SÓ CONFIAREI",
+    "autor": "KEITH GETTY",
+    "link": "https://www.youtube.com/watch?v=ybtccqo8xgk",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "EM ESPÍRITO, EM VERDADE (Meu Prazer)",
+    "autor": "KOINONIA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Em Tua presença",
+    "autor": "Níveia Soares",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "ENTREGA",
+    "autor": "VINEYARD",
+    "link": "acesse.one/Entrega",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ÉS A NOSSA ESTRELA DA MANHÃ",
+    "autor": "MARCOS GOES",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "És o Rei que vem",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "ESCUDO E PROTEÇÃO",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ESTÁ CONSUMADO",
+    "autor": "STÊNIO MARCIUS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ESTRE REINO",
+    "autor": "DT",
+    "link": "l1nk.dev/EsteReino",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ETERNO DEUS",
+    "autor": "VINEYARD",
+    "link": "acesse.one/EternoDeus",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "EU CREIO EM JESUS",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "EU JAMAIS SEREI O MESMO",
+    "autor": "DT",
+    "link": "acesse.one/EuJamaisSerei",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Eu me rendo",
+    "autor": "Coletivo Adoração",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "EU TAMBÉM",
+    "autor": "HILLSONG",
+    "link": "https://www.youtube.com/watch?v=h5plfizkr5a",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "EU VOU CONSTRUIR",
+    "autor": "",
+    "link": "acesse.one/EuVouConstruir",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "FILHO DE DEUS",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "EPIFANIA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "FILHO DE DEUS (SON OF GOD)",
+    "autor": "HILLSONG",
+    "link": "https://www.youtube.com/watch?v=rscsuycbnng",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "FIRME NAS PROMESSAS",
+    "autor": "HINO",
+    "link": "ANDRÉ VALADÃO",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Firmeza na Fé",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "FOI NA CRUZ",
+    "autor": "HINO",
+    "link": "ANDRÉ VALADÃO",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Forte mão",
+    "autor": "Sola",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "GLORIFICAR",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Graças Dou (Thank you Lord)",
+    "autor": "Don Moen",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "GRANDE É O SENHOR",
+    "autor": "ADHEMAR DE CAMPOS",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "INFINITAMENTE MAIS",
+    "autor": "ASAPH BORBA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ISAÍAS 53",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ISAIAS 9",
+    "autor": "RODOLFO ABRANTES",
+    "link": "acesse.one/IsaIas9",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL"
+    ]
+  },
+  {
+    "nome": "JÁ OUVISTES MINHA VOZ",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "JESUS CRISTO MUDOU MEU VIVER",
+    "autor": "ALINE BARROS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "JESUS É O REI DA GLÓRIA",
+    "autor": "DANIEL SOUZA",
+    "link": "acesse.one/JesusEoRei",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "JESUS EM TUA PRESENÇA",
+    "autor": "ASAPH BORBA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "JESUS PREVALECEU",
+    "autor": "DANIEL SOUZA",
+    "link": "https://www.youtube.com/watch?v=tke3za4onbk",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "JESUS TE AMAMOS",
+    "autor": "PC BARUK",
+    "link": "l1nk.dev/JesusTeAmamos",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "JESUS TE ENTRONIZAMOS",
+    "autor": "MARCOS GOES",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Jesus tudo pagou",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "LAÇOS DE AMOR",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "LOUVEMOS AO SENHOR (HOSANA)",
+    "autor": "ADHEMAR DE CAMPOS",
+    "link": "acesse.one/LouvemosAoSenhor",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "LOUVOR E HONRA (ANCIENT OF DAYS)",
+    "autor": "PAULO CESAR BARUK",
+    "link": "https://www.youtube.com/watch?v=7rddoafnkdq&list=rd7rddoafnkdq&start_radio=1",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "MAIS PERTO QUERO ESTAR",
+    "autor": "HINO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MAIS QUE UM AMIGO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MARANATA",
+    "autor": "Ministério Avivah",
+    "link": "l1nk.dev/Maranata",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Maravilhado",
+    "autor": "Nívea Soares",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "MARAVILHOSA GRAÇA",
+    "autor": "",
+    "link": "l1nk.dev/MaravilhosaGraca",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ME DERRAMAR",
+    "autor": "VINEYARD",
+    "link": "l1nk.dev/MeDerramar",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ME LEMBRAREI",
+    "autor": "HILSONG EM PORTUGUES",
+    "link": "acesse.one/MeLembrarei",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MENTE E CORAÇÃO",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MEU RESPIRAR",
+    "autor": "VINEYARD",
+    "link": "VERSÃO ANTIGA",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MINH’ALMA ENGRANDECE AO SENHOR",
+    "autor": "ASAPH BORBA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MONTE DO CALVÁRIO",
+    "autor": "DANIEL DE SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "MUITOS VIRÃO TE LOUVAR (\"DE TODAS\")",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "acesse.one/MuitosViraoTeLouvar",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NADA É MAIS DIGNO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NAS ESTRELAS",
+    "autor": "",
+    "link": "l1nk.dev/NasEstrelas",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NO CONTROLE",
+    "autor": "VINEYARD",
+    "link": "acesse.one/NoControle",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NOITE DE NATAL",
+    "autor": "",
+    "link": "acesse.one/NoiteDeNatal",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NOSSO DEUS É SOBERANO",
+    "autor": "ASAPH BORBA",
+    "link": "l1nk.dev/NossoDeusESoberano",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "O NOITE SANTA",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "O NOME DE JESUS",
+    "autor": "",
+    "link": "acesse.one/ONomeDeJesus",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "OFERTA DE AMOR",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "l1nk.dev/OfertaDeAmor",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "OH QUÃO LINDO ESSE NOME É",
+    "autor": "HILSONG",
+    "link": "https://www.youtube.com/watch?v=inct32y32jo",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "OS QUE CONFIAM NO SENHOR",
+    "autor": "MARCOS GOES",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PAI NOSSO",
+    "autor": "JOÃO ALEXANDRE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PÃO DA VIDA",
+    "autor": "CLÁUDIO CLARO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PERDÃO E GRAÇA",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PERTO QUERO ESTAR",
+    "autor": "MICHAEL W SMITH",
+    "link": "acesse.one/PertoQueroEstar",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Poder do seu amor",
+    "autor": "DT",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "PODER PRA SALVAR",
+    "autor": "ALINE BARROS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PORQUE ELE VIVE",
+    "autor": "HINO CANTOR CRISTÃO",
+    "link": "l1nk.dev/PorqueEleVive",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Pra Sempre",
+    "autor": "Kari Jobe",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "PRECISO DE TI",
+    "autor": "DT",
+    "link": "l1nk.dev/PrecisoDeTi",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "PRINCIPE",
+    "autor": "RESGATE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUANDO ENTRO EM TUA PRESENÇA",
+    "autor": "BIBLICA DA PAZ",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUÃO FORMOSO ÉS",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "QUÃO GRANDE ÉS TU",
+    "autor": "HINO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUÃO GRANDE ÉS TU (TU ÉS DIGNO)",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUE A PAZ DE DEUS REINE",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUEBRANTADO (PELA CRUZ)",
+    "autor": "VINEYARD",
+    "link": "l1nk.dev/Quebrantado",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUEM NOS SEPARARÁ",
+    "autor": "DIANTE DO TRONO",
+    "link": "https://www.youtube.com/watch?v=p1funaur_gk",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUERO LOUVAR-TE",
+    "autor": "PAULO CESAR BARUK",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "QUERO SUBIR",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "REDENÇÃO (PROJETO SOLA)",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "PASCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "REI DAS NAÇÕES",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "https://www.youtube.com/watch?v=pr7diwe__5w)\nregravada: https://open.spotify.com/track/5vsqadkmliafokqif0llrf",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "Rei Salvador (Savior King)",
+    "autor": "Comuniodade Zona sul",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": []
+  },
+  {
+    "nome": "REINA EM MIM",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "REINA HOJE",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "RENOVA-ME",
+    "autor": "ALINE BARROS",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "RESSUCITOU",
+    "autor": "ELEVATION",
+    "link": "https://www.youtube.com/watch?v=_nk1pw1qwq4",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "RESSURREIÇÃO",
+    "autor": "PROJETO SOLA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "RUDE CRUZ",
+    "autor": "ANDRÉ VALADÃO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SALMO 51",
+    "autor": "NAIELLY LEITE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SALVO PELA GRAÇA",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SANTO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SANTO DEUS",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Santo pra Sempre",
+    "autor": "Ana Paula Nobrega",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "SANTO SANTO SANTO",
+    "autor": "HOSANA MUSIC",
+    "link": "VERSÃO RENASCER PRAYSE",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SANTO, SANTO, SANTO (DEUS ONIPOTENTE)",
+    "autor": "HINO",
+    "link": "VENCEDORES POR CRISTO (CD HINOS I)",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SE ANDARMOS NA LUZ",
+    "autor": "HELOÍSA ROSA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SE ESVAZIOU",
+    "autor": "DANIEL SOUZA",
+    "link": "https://www.youtube.com/watch?v=iq1a4oqso2g",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SE EU QUISER ADORAR A DEUS",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SE RENOVAM (BOM É O SENHOR...)",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SEGURANÇA (SOU DE JESUS)",
+    "autor": "HINO",
+    "link": "LETRA DO CC - 375",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SEJA ENGRANDECIDO",
+    "autor": "GUILHERME KERR",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SEJA O CENTRO",
+    "autor": "VINEYARD",
+    "link": "https://www.youtube.com/watch?v=udnriwk2c6y&list=rdudnriwk2c6y&start_radio=1&t=351",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SENHOR DA CRIAÇÃO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "SENHOR FORMOSO ÉS (OH LORD, YOU'RE BEAUTIFUL)",
+    "autor": "KEITH GREEN",
+    "link": "VERSÃO MARCOS GOES",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SENHOR TE QUERO (EU TE BUSCO)",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SEU NOME É",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SÓ TENHO A TI",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SONDA-ME",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SOU FELIZ",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TE ADORAR",
+    "autor": "PROJETO VIDA NOVA DE IRAJÁ",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TE AGRADEÇO",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TESTEMUNHAR DO AMOR",
+    "autor": "AVALON",
+    "link": "https://www.youtube.com/watch?v=hoimnl5ygvs",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "TEU AMOR NAO FALHA",
+    "autor": "NÍVEA SOARES",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TEU POVO (É O TEU POVO AQUI PRESENTE)",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TEU POVO CLAMA",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TEUS ALTARES",
+    "autor": "JOÃO ALEXANDRE",
+    "link": "https://www.youtube.com/watch?v=m_qbcrorqrc",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TOCOU-ME",
+    "autor": "HINO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TODO PODER PERTENCE A JESUS",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TODO SOM",
+    "autor": "RESGATE",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TODOS QUE TÊM SEDE",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TOMA O MEU CORAÇÃO (I GIVE YOU MY HEART)",
+    "autor": "HILSONG, VERSÃO PRISMA",
+    "link": "https://www.youtube.com/watch?v=rtb27r8vvwu",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TOMA O TEU LUGAR",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Tu És bom",
+    "autor": "Nivea Soares",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "TU ÉS FIEL, SENHOR (O DEUS FIEL)",
+    "autor": "HINO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TU ÉS MEU REI",
+    "autor": "VINEYARD",
+    "link": "https://www.youtube.com/watch?time_continue=13&v=zy29se111s8",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TU ÉS SANTO",
+    "autor": "MICHAEL SMITH",
+    "link": "LETRA: RONALDO BEZERRA",
+    "vsCifra": true,
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TU ÉS SOBERANO",
+    "autor": "ASAPH BORBA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TU ME AMASTE EM PRIMEIRO LUGAR",
+    "autor": "DANIEL SOUZA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TU VIVES ENTRE OS QUERUBINS",
+    "autor": "",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "TUDO ENTREGAREI",
+    "autor": "HINO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VASO NOVO",
+    "autor": "VPC",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VASOS QUEBRADOS (SUBLIME GRAÇA)",
+    "autor": "HILSONG EM PORTUGUES",
+    "link": "https://www.youtube.com/watch?v=_ahfl-ofam8",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VEM DE TI, SENHOR",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VEM LOUVAR (HOJE É TEMPO DE LOUVAR)",
+    "autor": "DESCONHECIDO",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VEM, ESTÁ É A HORA",
+    "autor": "VINEYARD",
+    "link": "ALTERAR LETRA \"A TI RESPONDER\"",
+    "vsCifra": true,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VENCENDO VEM JESUS",
+    "autor": "HINO",
+    "link": "https://www.youtube.com/watch?v=rs6mnkndfmu",
+    "vsCifra": false,
+    "estacoes": [
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "VENHA SOBRE NÓS",
+    "autor": "CANTOVERBO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "PASCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Vida aos sepulcros",
+    "autor": "Elevation Worship",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": []
+  },
+  {
+    "nome": "VIM PARA ADORAR-TE",
+    "autor": "MICHAEL SMITH",
+    "link": "música: https://www.youtube.com/watch?v=coxopsrsfdu) / quatro por um (letra)",
+    "vsCifra": true,
+    "estacoes": [
+      "QUARESMA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "Vinho e Pão",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
+    "nome": "VÓS CRIATURAS DE DEUS PAI",
+    "autor": "IPALPHA",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIACAO"
+    ]
+  },
+  {
+    "nome": "QUERO TANTO AGRADECER",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": []
+  },
+  {
+    "nome": "SENHOR TU ÉS BOM",
+    "autor": "ISAREL HOUGHTON",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  }
 ]
