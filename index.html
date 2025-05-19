@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -6,22 +7,21 @@
   <title>Cancioneiro - Igreja Esperança</title>
 
   <!-- PWA Manifest -->
+
   <link rel="manifest" href="manifest.json">
 
   <!-- iOS support -->
+
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <link rel="apple-touch-icon" href="logo-192.png">
 
-  <!-- Se não estiver usando recursos do xlsx, pode remover -->
+  <!-- Biblioteca xlsx (se não usar, pode remover) -->
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
@@ -58,15 +58,6 @@
       border: 1px solid #ddd;
       border-radius: 4px;
     }
-    .filtro-item div {
-      display: flex;
-      align-items: center;
-      margin-bottom: 5px;
-    }
-    .filtro-item div input[type="checkbox"] {
-      width: auto;
-      margin-right: 8px;
-    }
     #tabelaMusicas {
       width: 100%;
       border-collapse: collapse;
@@ -84,30 +75,10 @@
       font-weight: bold;
     }
     @media screen and (max-width: 600px) {
-      #tabelaMusicas thead {
-        display: none;
-      }
-      #tabelaMusicas tr {
-        display: block;
-        margin-bottom: 10px;
-        border: 1px solid #ddd;
-        background-color: #fff;
-      }
-      #tabelaMusicas td {
-        display: block;
-        text-align: right;
-        border-bottom: 1px solid #ddd;
-        padding: 10px;
-        position: relative;
-      }
-      #tabelaMusicas td::before {
-        content: attr(data-label);
-        position: absolute;
-        left: 10px;
-        font-weight: bold;
-        text-transform: uppercase;
-        font-size: 0.8rem;
-      }
+      #tabelaMusicas thead { display: none; }
+      #tabelaMusicas tr { display: block; margin-bottom: 10px; border: 1px solid #ddd; background-color: #fff; }
+      #tabelaMusicas td { display: block; text-align: right; border-bottom: 1px solid #ddd; padding: 10px; position: relative; }
+      #tabelaMusicas td::before { content: attr(data-label); position: absolute; left: 10px; font-weight: bold; text-transform: uppercase; font-size: 0.8rem; }
     }
     .estacao {
       display: inline-block;
@@ -117,7 +88,6 @@
       color: #fff;
       font-size: 0.7rem;
     }
-    /* Classes para cada estação */
     .ADVENTO { background-color: #007bff; }
     .NATAL { background-color: #28a745; }
     .EPIFANIA { background-color: #17a2b8; }
@@ -126,7 +96,6 @@
     .PENTECOSTES { background-color: #6f42c1; }
     .TEMPO_COMUM { background-color: #343a40; }
     .CRIAÇÃO { background-color: #fd7e14; }
-    /* Botão de link */
     .link-btn {
       display: inline-block;
       padding: 5px 10px;
@@ -136,7 +105,6 @@
       border-radius: 4px;
       font-size: 0.8rem;
     }
-    /* Offline notification */
     #offline-notification {
       display: none;
       background-color: #f44336;
@@ -150,16 +118,16 @@
       z-index: 1000;
     }
   </style>
+
 </head>
 <body>
-  <!-- Offline Notification -->
-  <div id="offline-notification">
-    Você está offline. Algumas funcionalidades podem estar limitadas.
-  </div>
+  <!-- Offline notification -->
+  <div id="offline-notification">Você está offline. Algumas funcionalidades podem estar limitadas.</div>
 
   <h1>Cancioneiro - Igreja Esperança</h1>
 
   <!-- Filtros -->
+
   <div class="filtros">
     <div class="filtro-item">
       <label for="filtroNome">Nome da Música:</label>
@@ -178,19 +146,23 @@
       </select>
     </div>
     <div class="filtro-item">
-      <label>Estações:</label>
-      <div><input type="checkbox" id="ADVENTO" value="ADVENTO"><label for="ADVENTO">Advento</label></div>
-      <div><input type="checkbox" id="NATAL" value="NATAL"><label for="NATAL">Natal</label></div>
-      <div><input type="checkbox" id="EPIFANIA" value="EPIFANIA"><label for="EPIFANIA">Epifania</label></div>
-      <div><input type="checkbox" id="QUARESMA" value="QUARESMA"><label for="QUARESMA">Quaresma</label></div>
-      <div><input type="checkbox" id="PÁSCOA" value="PÁSCOA"><label for="PÁSCOA">Páscoa</label></div>
-      <div><input type="checkbox" id="PENTECOSTES" value="PENTECOSTES"><label for="PENTECOSTES">Pentecostes</label></div>
-      <div><input type="checkbox" id="TEMPO_COMUM" value="TEMPO_COMUM"><label for="TEMPO_COMUM">Tempo Comum</label></div>
-      <div><input type="checkbox" id="CRIAÇÃO" value="CRIAÇÃO"><label for="CRIAÇÃO">Criação</label></div>
+      <label for="filtroEstacao">Estação:</label>
+      <select id="filtroEstacao">
+        <option value="">Todas as estações</option>
+        <option value="ADVENTO">Advento</option>
+        <option value="NATAL">Natal</option>
+        <option value="EPIFANIA">Epifania</option>
+        <option value="QUARESMA">Quaresma</option>
+        <option value="PÁSCOA">Páscoa</option>
+        <option value="PENTECOSTES">Pentecostes</option>
+        <option value="TEMPO_COMUM">Tempo Comum</option>
+        <option value="CRIAÇÃO">Criação</option>
+      </select>
     </div>
   </div>
-  
+
   <!-- Tabela -->
+
   <table id="tabelaMusicas">
     <thead>
       <tr>
@@ -202,189 +174,128 @@
       </tr>
     </thead>
     <tbody>
-      <!-- As linhas serão inseridas via JavaScript -->
+      <!-- Linhas inseridas via JavaScript -->
     </tbody>
   </table>
 
   <script>
-    // Função para inserir uma linha na tabela
+    // Adiciona uma linha na tabela
     function adicionarLinha(musica) {
       const tbody = document.querySelector('#tabelaMusicas tbody');
       const tr = document.createElement('tr');
-
-      // Guardar atributos para filtro
       tr.setAttribute('data-nome', musica.nome.toLowerCase());
       tr.setAttribute('data-autor', musica.autor.toLowerCase());
       tr.setAttribute('data-vscifra', musica.vsCifra);
-      tr.setAttribute('data-estacoes', JSON.stringify(musica.estacoes || []));
+      tr.setAttribute('data-estacoes', JSON.stringify(musica.estacoes));
 
-      // 1. Nome
+      // Nome
       const tdNome = document.createElement('td');
       tdNome.setAttribute('data-label', 'Nome');
-      tdNome.textContent = musica.nome; // Exibe o valor do campo "nome"
+      tdNome.textContent = musica.nome;
       tr.appendChild(tdNome);
 
-      // 2. Autor
+      // Autor
       const tdAutor = document.createElement('td');
       tdAutor.setAttribute('data-label', 'Autor');
-      tdAutor.textContent = musica.autor; // Exibe o valor do campo "autor"
+      tdAutor.textContent = musica.autor;
       tr.appendChild(tdAutor);
 
-      // 3. VS/Cifra
-      const tdVSCifra = document.createElement('td');
-      tdVSCifra.setAttribute('data-label', 'VS/Cifra');
-      // Se musica.vsCifra for "true" (string) ou verdadeiro (boolean), mostra "Sim"
-      // Se for "false", mostra "Não"
-      // (Dependendo de como está no JSON, pode ser string ou boolean)
-      tdVSCifra.textContent = (musica.vsCifra === true || musica.vsCifra === "true") ? "Sim" : "Não";
-      tr.appendChild(tdVSCifra);
+      // VS/Cifra
+      const tdVS = document.createElement('td');
+      tdVS.setAttribute('data-label', 'VS/Cifra');
+      tdVS.textContent = musica.vsCifra ? 'Sim' : 'Não';
+      tr.appendChild(tdVS);
 
-      // 4. Estações
-      const tdEstacoes = document.createElement('td');
-      tdEstacoes.setAttribute('data-label', 'Estações');
+      // Estaçõe
+      const tdEst = document.createElement('td');
+      tdEst.setAttribute('data-label', 'Estações');
+      musica.estacoes.forEach(est => {
+        const span = document.createElement('span');
+        span.classList.add('estacao', est);
+        span.textContent =
+          est === 'TEMPO_COMUM' ? 'T. Comum' :
+          est === 'CRIAÇÃO' ? 'Criação' :
+          est.charAt(0) + est.slice(1).toLowerCase();
+        tdEst.appendChild(span);
+      });
+      tr.appendChild(tdEst);
 
-      // Se "estacoes" não for array, evitamos erro
-      if (Array.isArray(musica.estacoes)) {
-        musica.estacoes.forEach(est => {
-          const span = document.createElement('span');
-          span.classList.add('estacao');
-          span.classList.add(est); // classe CSS ex: "ADVENTO"
-          // Exibe o texto de forma amigável
-          if (est === "TEMPO_COMUM") {
-            span.textContent = "T. Comum";
-          } else if (est === "CRIAÇÃO") {
-            span.textContent = "Criação";
-          } else {
-            // "ADVENTO", "NATAL", etc.
-            // Letra inicial + resto em minúsculo, ex: "Natal"
-            span.textContent = est.charAt(0) + est.slice(1).toLowerCase();
-          }
-          tdEstacoes.appendChild(span);
-        });
-      }
-      tr.appendChild(tdEstacoes);
-
-      // 5. Link
+      // Link
       const tdLink = document.createElement('td');
       tdLink.setAttribute('data-label', 'Link');
       if (musica.link) {
         const a = document.createElement('a');
         a.href = musica.link;
-        a.target = "_blank";
-        a.textContent = "Acessar";
+        a.target = '_blank';
+        a.textContent = 'Acessar';
         a.classList.add('link-btn');
         tdLink.appendChild(a);
       }
       tr.appendChild(tdLink);
 
-      // Insere a linha no <tbody>
       tbody.appendChild(tr);
     }
 
-    // Função para carregar dados do arquivo JSON
+    // Carrega dados do JSON e popula a tabela
     function carregarDados() {
       fetch('dados.json')
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Erro ao carregar o arquivo JSON');
-          }
-          return response.json();
-        })
+        .then(res => res.json())
         .then(dados => {
-          // Para cada objeto no array "dados", criamos uma linha na tabela
           dados.forEach(adicionarLinha);
-          // Aplica filtros iniciais (caso queira filtrar assim que carrega)
           aplicarFiltros();
         })
-        .catch(error => console.error('Erro:', error));
+        .catch(console.error);
     }
 
-    // Função para aplicar os filtros
+    // Aplica filtros
     function aplicarFiltros() {
-      const filtroNome = document.getElementById('filtroNome').value.toLowerCase();
-      const filtroAutor = document.getElementById('filtroAutor').value.toLowerCase();
-      const filtroVS = document.getElementById('filtroVS').value;
+      const nomeF = document.getElementById('filtroNome').value.toLowerCase();
+      const autorF = document.getElementById('filtroAutor').value.toLowerCase();
+      const vsF = document.getElementById('filtroVS').value;
+      const estF = document.getElementById('filtroEstacao').value;
 
-      // Lista de estações marcadas
-      const estacoesSelecionadas = Array.from(document.querySelectorAll('.filtros input[type="checkbox"]:checked'))
-        .map(checkbox => checkbox.value);
+      document.querySelectorAll('#tabelaMusicas tbody tr').forEach(tr => {
+        const nome = tr.getAttribute('data-nome');
+        const autor = tr.getAttribute('data-autor');
+        const vsc = tr.getAttribute('data-vscifra');
+        const ests = JSON.parse(tr.getAttribute('data-estacoes'));
 
-      // Todas as linhas da tabela
-      const linhas = document.querySelectorAll('#tabelaMusicas tbody tr');
+        const condNome = nome.includes(nomeF);
+        const condAutor = autor.includes(autorF);
+        const condVS = !vsF || vsc === vsF;
+        const condEst = !estF || ests.includes(estF);
 
-      linhas.forEach(linha => {
-        // Pegamos os atributos "data-..." para comparar
-        const nome = linha.getAttribute('data-nome');
-        const autor = linha.getAttribute('data-autor');
-        const vscifra = linha.getAttribute('data-vscifra');
-        const estacoes = JSON.parse(linha.getAttribute('data-estacoes') || '[]');
-
-        // Verifica se o nome inclui o texto do filtro
-        const condNome = nome.includes(filtroNome);
-        // Verifica se o autor inclui o texto do filtro
-        const condAutor = autor.includes(filtroAutor);
-        // Verifica se vsCifra combina com o filtro (se filtroVS for vazio, ignora)
-        const condVS = (filtroVS === "" || vscifra === filtroVS);
-
-        // Verifica se pelo menos uma das estações marcadas está presente
-        // Se nenhum checkbox estiver marcado, passa direto (condEstacoes = true)
-        let condEstacoes = true;
-        if (estacoesSelecionadas.length > 0) {
-          condEstacoes = estacoesSelecionadas.some(est => estacoes.includes(est));
-        }
-
-        // Se todas as condições forem verdadeiras, exibe a linha; senão, oculta
-        if (condNome && condAutor && condVS && condEstacoes) {
-          linha.style.display = "";
-        } else {
-          linha.style.display = "none";
-        }
+        tr.style.display = (condNome && condAutor && condVS && condEst) ? '' : 'none';
       });
     }
 
-    // Listeners dos filtros
+    // Listeners
     document.getElementById('filtroNome').addEventListener('input', aplicarFiltros);
     document.getElementById('filtroAutor').addEventListener('input', aplicarFiltros);
     document.getElementById('filtroVS').addEventListener('change', aplicarFiltros);
+    document.getElementById('filtroEstacao').addEventListener('change', aplicarFiltros);
 
-    const checkboxes = document.querySelectorAll('.filtros input[type="checkbox"]');
-    checkboxes.forEach(checkbox => {
-      checkbox.addEventListener('change', aplicarFiltros);
-    });
-
-    // Quando a página carrega, chama carregarDados
-    document.addEventListener('DOMContentLoaded', carregarDados);
-
-    // Service Worker Registration
+    // Service Worker
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/service-worker.js')
-          .then((registration) => {
-            console.log('Service Worker registered successfully:', registration.scope);
-          })
-          .catch((error) => {
-            console.log('Service Worker registration failed:', error);
-          });
+        navigator.serviceWorker.register('/service-worker.js');
       });
     }
 
-    // Offline Detection
-    function checkOnlineStatus() {
-      const offlineNotification = document.getElementById('offline-notification');
-      
-      if (!navigator.onLine) {
-        offlineNotification.style.display = 'block';
-      } else {
-        offlineNotification.style.display = 'none';
-      }
+    // Offline detection
+    function checkOnline() {
+      const off = document.getElementById('offline-notification');
+      off.style.display = navigator.onLine ? 'none' : 'block';
     }
+    window.addEventListener('online', checkOnline);
+    window.addEventListener('offline', checkOnline);
 
-    // Check online/offline status
-    window.addEventListener('online', checkOnlineStatus);
-    window.addEventListener('offline', checkOnlineStatus);
-    
-    // Initial check
-    checkOnlineStatus();
+    // Inicialização
+    document.addEventListener('DOMContentLoaded', () => {
+      checkOnline();
+      carregarDados();
+    });
   </script>
+
 </body>
 </html>
