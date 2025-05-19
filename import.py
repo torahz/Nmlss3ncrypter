@@ -2,65 +2,87 @@ import pandas as pd
 import json
 import unicodedata
 
-# Remove acentos e normaliza
-def normalize(text):
-    if pd.isnull(text):
+def normalize_header(h):
+    """Remove acentos e espaços, retorna em UPPERCASE sem acentos."""
+    if pd.isnull(h):
         return ""
-    txt = str(text).strip()
-    return unicodedata.normalize("NFKD", txt).encode("ASCII", "ignore").decode("ASCII")
+    s = str(h).strip()
+    s = unicodedata.normalize("NFKD", s).encode("ASCII", "ignore").decode("ASCII")
+    return s.upper()
 
-# Mapeamento: nomes originais → nomes limpos
-DISPLAY_MAP = {
-    "ADVENTO": "ADVENTO",
-    "NATAL": "NATAL",
-    "EPIFANIA": "EPIFANIA",
-    "QUARESMA": "QUARESMA",
-    "PASCOA": "PÁSCOA",
+def parse_bool(val):
+    """Interpreta vários formatos de verdadeiro como True."""
+    if pd.isnull(val):
+        return False
+    s = str(val).strip().lower()
+    return s in {"true", "verdadeiro", "1", "sim", "x"}
+
+# 1) Leitura e normalização de cabeçalhos
+df = pd.read_excel("Cancioneiro.xlsx", header=0)
+orig_cols = list(df.columns)
+df.columns = [normalize_header(c) for c in orig_cols]
+
+# 2) Deteção flexível das colunas básicas
+def find_col(keywords):
+    """Retorna a primeira coluna que contenha qualquer keyword."""
+    for col in df.columns:
+        for kw in keywords:
+            if kw in col:
+                return col
+    return None
+
+col_nome      = find_col(["MUSICA", "NOME"])
+col_autor     = find_col(["AUTOR"])
+col_link      = find_col(["LINK"])
+col_vsecfira  = find_col(["VS", "CIFRA"])
+
+if not col_nome or not col_autor or not col_vsecfira:
+    raise RuntimeError(
+        f"Não foi possível detectar colunas básicas:\n"
+        f"  nome={col_nome}, autor={col_autor}, vsEcfira={col_vsecfira}"
+    )
+
+# 3) Map de estações (normalizado → rótulo JSON)
+EST_LABEL = {
+    "ADVENTO":     "ADVENTO",
+    "NATAL":       "NATAL",
+    "EPIFANIA":    "EPIFANIA",
+    "QUARESMA":    "QUARESMA",
+    "PASCOA":      "PÁSCOA",
     "PENTECOSTES": "PENTECOSTES",
     "TEMPO COMUM": "TEMPO_COMUM",
-    "CRIACAO": "CRIAÇÃO",
+    "CRIACAO":     "CRIAÇÃO",
 }
 
-# Caminho
-input_file = "Cancioneiro.xlsx"
-df = pd.read_excel(input_file, header=0)
+# Filtra apenas as colunas de estação presentes no DF
+est_cols = {col: label for col,label in EST_LABEL.items() if col in df.columns}
 
-# Normalizar cabeçalhos
-df.columns = [normalize(col).upper() for col in df.columns]
-print("Colunas encontradas:", df.columns.tolist())  # debug
-
-# Nomes esperados para facilitar acesso
-col_nome = next((c for c in df.columns if "NOME" in c), None)
-col_autor = next((c for c in df.columns if "AUTOR" in c), None)
-col_link = next((c for c in df.columns if "LINK" in c), None)
-col_vs = next((c for c in df.columns if "VS" in c), None)
-
-dados = []
+# 4) Montagem da lista de músicas
+musicas = []
 for _, row in df.iterrows():
-    musica = {
-        "nome": str(row.get(col_nome, "")).strip(),
-        "autor": str(row.get(col_autor, "")).strip(),
-        "link": str(row.get(col_link, "")).strip(),
-    }
+    nome = row[col_nome]
+    if pd.isnull(nome) or str(nome).strip() == "":
+        continue  # ignora linhas sem nome
 
-    # VS e cifra
-    vs_raw = str(row.get(col_vs, "")).strip().lower()
-    musica["vsCifra"] = vs_raw in ["true", "verdadeiro", "1", "sim", "x"]
+    autor = row[col_autor]   if pd.notnull(row[col_autor])   else ""
+    link  = row[col_link]    if col_link and pd.notnull(row[col_link]) else ""
+    vs    = parse_bool(row[col_vsecfira])
 
-    # Estações
-    estacoes = []
-    for original, display in DISPLAY_MAP.items():
-        col_key = next((c for c in df.columns if normalize(c) == original), None)
-        if col_key:
-            valor = str(row.get(col_key, "")).strip().lower()
-            if valor not in ["", "falso", "false", "0"]:
-                estacoes.append(display)
-    musica["estacoes"] = estacoes
+    ests = []
+    for col,label in est_cols.items():
+        if parse_bool(row[col]):
+            ests.append(label)
 
-    dados.append(musica)
+    musicas.append({
+        "nome":     str(nome).strip(),
+        "autor":    str(autor).strip(),
+        "link":     str(link).strip(),
+        "vsCifra":  vs,
+        "estacoes": ests
+    })
 
-# Exportar
+# 5) Exporta JSON
 with open("dados.json", "w", encoding="utf-8") as f:
-    json.dump(dados, f, ensure_ascii=False, indent=2)
+    json.dump(musicas, f, ensure_ascii=False, indent=2)
 
-print("✔ dados.json gerado com sucesso.")
+print(f"{len(musicas)} músicas exportadas em 'dados.json'.")

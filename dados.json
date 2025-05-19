@@ -1,8 +1,8 @@
 [
   {
-    "nome": "",
+    "nome": "A ELE A GLÓRIA",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "A ROCHA",
     "autor": "VINEYARD",
     "link": "l1nk.dev/A-Rocha",
     "vsCifra": true,
@@ -23,16 +23,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "A TUA VONTADE",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ABA PAI",
     "autor": "MINISTÉRIO KOINONYA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -41,9 +41,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ABRA OS OLHOS DO MEU CORAÇÃO",
     "autor": "MICHAEL SMITH",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ABUNDANTE GRAÇA",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PENTECOSTES",
@@ -62,14 +62,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Acende o fogo em mim",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ACLAME AO SENHOR",
     "autor": "DIANTE DO TRONO",
     "link": "l1nk.dev/AclameAoSenhor",
     "vsCifra": true,
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ACREDITO",
     "autor": "NEWS BOYS",
     "link": "l1nk.dev/Acredito",
     "vsCifra": true,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AGNUS DEI",
     "autor": "MICHAEL W SMITH",
     "link": "l1nk.dev/AgnusDei",
     "vsCifra": true,
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AJUNTAMENTO",
     "autor": "JORGE CAMARGO",
     "link": "https://www.youtube.com/watch?v=-khraucbor0",
     "vsCifra": false,
@@ -109,14 +109,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Alguém como eu",
     "autor": "Stenius Marcius",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ALVO MAIS QUE A NEVE",
     "autor": "HINO",
     "link": "acesse.one/AlvoMaisQueANeve",
     "vsCifra": true,
@@ -127,9 +127,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AMIGO DE DEUS",
     "autor": "ADHEMAR DE CAMPOS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -137,9 +137,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AMIGO FIEL",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -149,14 +149,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Antífona",
     "autor": "Lucas Sousa",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "AO ERGUERMOS AS MÃOS",
     "autor": "NEWS BOYS",
     "link": "ALINE BARROS",
     "vsCifra": false,
@@ -167,9 +167,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AO MEU LADO",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AO ÚNICO",
     "autor": "ALINE BARROS",
     "link": "l1nk.dev/AoUnico",
     "vsCifra": true,
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ATÉ OUTRA VEZ",
     "autor": "PROJETO SOLA",
     "link": "l1nk.dev/AteOutraVez",
     "vsCifra": true,
@@ -199,9 +199,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "BEM MAIS QUE TUDO (ABOVE ALL)",
     "autor": "ALINE BARROS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "NATAL",
@@ -209,9 +209,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "BEM SUPREMO",
     "autor": "ADHEMAR DE CAMPOS",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "EPIFANIA",
@@ -221,23 +221,23 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Bom estarmos aqui",
     "autor": "Renascer Prayse",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "BONDADE DE DEUS",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
+    "nome": "BRILHA JESUS",
     "autor": "VENCEDORES POR CRISTO",
     "link": "l1nk.dev/BrilhaJesus",
     "vsCifra": true,
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CANTA MINHA ALMA (BEHOLD)",
     "autor": "HILSONG, VERSÃO KEMUEL",
     "link": "https://www.youtube.com/watch?v=vbljze53vje",
     "vsCifra": true,
@@ -259,7 +259,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CANTAI AO SENHOR (UM CÂNTICO NOVO)",
     "autor": "VENCEDORES POR CRISTO",
     "link": "l1nk.dev/CantaiAoSenhor",
     "vsCifra": true,
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CANTAREI TEU AMOR PRA SEMPRE",
     "autor": "ADORAÇÃO E ADORADORES",
     "link": "https://www.youtube.com/watch?v=gs-peqktib8",
     "vsCifra": false,
@@ -283,9 +283,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CASTELO FORTE",
     "autor": "HINO CANTOR CRISTÃO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CHAMAS MEU NOME",
     "autor": "BETO TAVARES",
     "link": "https://www.youtube.com/watch?v=2egg-zqqwde",
     "vsCifra": false,
@@ -305,7 +305,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CONFIANÇA",
     "autor": "PROJETO SOLA",
     "link": "acesse.one/ConfiancA",
     "vsCifra": true,
@@ -314,16 +314,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Confissões",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "CORAÇÃO IGUAL AO TEU",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -331,9 +331,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CREDO APOSTÓLICO",
     "autor": "JOÃO ALEXANDRE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -342,16 +342,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Cristo Esperança",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "DA VIDA, O MELHOR",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "DEUS DE AMOR",
     "autor": "DIANTE DO TRONO",
     "link": "https://www.youtube.com/watch?v=-mqv7fvplzq",
     "vsCifra": false,
@@ -370,16 +370,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Deus Zeloso",
     "autor": "FHOPE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "DIANTE DA CRUZ",
     "autor": "ALINE BARROS",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -388,7 +388,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "DIGNO",
     "autor": "MINISTÉRIO KOINONYA",
     "link": "l1nk.dev/DignoKoynonya",
     "vsCifra": true,
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "DIGNO É O SENHOR",
     "autor": "ALINE BARROS",
     "link": "l1nk.dev/DignoEoSenhor",
     "vsCifra": true,
@@ -410,9 +410,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "DOCE NOME",
     "autor": "VENCEDORES POR CRISTO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "EPIFANIA",
@@ -422,16 +422,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Eis o Dia",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ELE É",
     "autor": "OS ARRAIS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -440,9 +440,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ELE É EXALTADO",
     "autor": "ADHEMAR DE CAMPOS",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "EPIFANIA",
@@ -452,7 +452,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EM CRISTO SÓ CONFIAREI",
     "autor": "KEITH GETTY",
     "link": "https://www.youtube.com/watch?v=ybtccqo8xgk",
     "vsCifra": true,
@@ -463,9 +463,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EM ESPÍRITO, EM VERDADE (Meu Prazer)",
     "autor": "KOINONIA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PENTECOSTES",
@@ -473,14 +473,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Em Tua presença",
     "autor": "Níveia Soares",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ENTREGA",
     "autor": "VINEYARD",
     "link": "acesse.one/Entrega",
     "vsCifra": true,
@@ -489,9 +489,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ÉS A NOSSA ESTRELA DA MANHÃ",
     "autor": "MARCOS GOES",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -501,16 +501,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "És o Rei que vem",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "ESCUDO E PROTEÇÃO",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -518,9 +518,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ESTÁ CONSUMADO",
     "autor": "STÊNIO MARCIUS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -529,7 +529,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ESTRE REINO",
     "autor": "DT",
     "link": "l1nk.dev/EsteReino",
     "vsCifra": true,
@@ -538,7 +538,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ETERNO DEUS",
     "autor": "VINEYARD",
     "link": "acesse.one/EternoDeus",
     "vsCifra": true,
@@ -547,9 +547,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EU CREIO EM JESUS",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EU JAMAIS SEREI O MESMO",
     "autor": "DT",
     "link": "acesse.one/EuJamaisSerei",
     "vsCifra": true,
@@ -567,15 +567,15 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Eu me rendo",
     "autor": "Coletivo Adoração",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
-    "autor": "nan",
+    "nome": "EU VOU CONSTRUIR",
+    "autor": "",
     "link": "acesse.one/EuVouConstruir",
     "vsCifra": true,
     "estacoes": [
@@ -583,9 +583,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "FILHO DE DEUS",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -595,7 +595,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "FILHO DE DEUS (SON OF GOD)",
     "autor": "HILLSONG",
     "link": "https://www.youtube.com/watch?v=rscsuycbnng",
     "vsCifra": true,
@@ -606,7 +606,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "FIRME NAS PROMESSAS",
     "autor": "HINO",
     "link": "ANDRÉ VALADÃO",
     "vsCifra": true,
@@ -617,9 +617,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Firmeza na Fé",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "FOI NA CRUZ",
     "autor": "HINO",
     "link": "ANDRÉ VALADÃO",
     "vsCifra": false,
@@ -641,16 +641,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Forte mão",
     "autor": "Sola",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "GLORIFICAR",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -658,9 +658,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Graças Dou (Thank you Lord)",
     "autor": "Don Moen",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -668,9 +668,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "GRANDE É O SENHOR",
     "autor": "ADHEMAR DE CAMPOS",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
@@ -680,9 +680,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "INFINITAMENTE MAIS",
     "autor": "ASAPH BORBA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -691,9 +691,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ISAÍAS 53",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -702,7 +702,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ISAIAS 9",
     "autor": "RODOLFO ABRANTES",
     "link": "acesse.one/IsaIas9",
     "vsCifra": true,
@@ -712,9 +712,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JÁ OUVISTES MINHA VOZ",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -723,9 +723,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS CRISTO MUDOU MEU VIVER",
     "autor": "ALINE BARROS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PENTECOSTES",
@@ -733,9 +733,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS EM TUA PRESENÇA",
     "autor": "ASAPH BORBA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -744,7 +744,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS PREVALECEU",
     "autor": "DANIEL SOUZA",
     "link": "https://www.youtube.com/watch?v=tke3za4onbk",
     "vsCifra": false,
@@ -755,7 +755,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS TE AMAMOS",
     "autor": "PC BARUK",
     "link": "l1nk.dev/JesusTeAmamos",
     "vsCifra": true,
@@ -764,9 +764,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS TE ENTRONIZAMOS",
     "autor": "MARCOS GOES",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -775,16 +775,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Jesus tudo pagou",
     "autor": "IPALPHA",
     "link": "https://www.youtube.com/watch?v=Y7xRpmb6mOQ",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "LAÇOS DE AMOR",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -793,7 +793,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "LOUVEMOS AO SENHOR (HOSANA)",
     "autor": "ADHEMAR DE CAMPOS",
     "link": "acesse.one/LouvemosAoSenhor",
     "vsCifra": true,
@@ -804,9 +804,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MAIS PERTO QUERO ESTAR",
     "autor": "HINO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -815,9 +815,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MAIS QUE UM AMIGO",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -826,7 +826,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MARANATA",
     "autor": "Ministério Avivah",
     "link": "l1nk.dev/Maranata",
     "vsCifra": true,
@@ -835,15 +835,15 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Maravilhado",
     "autor": "Nívea Soares",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
-    "autor": "nan",
+    "nome": "MARAVILHOSA GRAÇA",
+    "autor": "",
     "link": "l1nk.dev/MaravilhosaGraca",
     "vsCifra": true,
     "estacoes": [
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ME DERRAMAR",
     "autor": "VINEYARD",
     "link": "l1nk.dev/MeDerramar",
     "vsCifra": true,
@@ -863,7 +863,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ME LEMBRAREI",
     "autor": "HILSONG EM PORTUGUES",
     "link": "acesse.one/MeLembrarei",
     "vsCifra": true,
@@ -874,9 +874,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MENTE E CORAÇÃO",
     "autor": "VENCEDORES POR CRISTO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -885,7 +885,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MEU RESPIRAR",
     "autor": "VINEYARD",
     "link": "VERSÃO ANTIGA",
     "vsCifra": true,
@@ -896,9 +896,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MINH’ALMA ENGRANDECE AO SENHOR",
     "autor": "ASAPH BORBA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -908,9 +908,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MONTE DO CALVÁRIO",
     "autor": "DANIEL DE SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -919,7 +919,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MUITOS VIRÃO TE LOUVAR (\"DE TODAS\")",
     "autor": "VENCEDORES POR CRISTO",
     "link": "acesse.one/MuitosViraoTeLouvar",
     "vsCifra": true,
@@ -930,9 +930,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "NADA É MAIS DIGNO",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -941,8 +941,8 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
+    "nome": "NAS ESTRELAS",
+    "autor": "",
     "link": "l1nk.dev/NasEstrelas",
     "vsCifra": true,
     "estacoes": [
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "NO CONTROLE",
     "autor": "VINEYARD",
     "link": "acesse.one/NoControle",
     "vsCifra": true,
@@ -960,8 +960,8 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
+    "nome": "NOITE DE NATAL",
+    "autor": "",
     "link": "acesse.one/NoiteDeNatal",
     "vsCifra": true,
     "estacoes": [
@@ -969,17 +969,17 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "O NOITE SANTA",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
+    "nome": "O NOME DE JESUS",
+    "autor": "",
     "link": "acesse.one/ONomeDeJesus",
     "vsCifra": true,
     "estacoes": [
@@ -988,7 +988,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "OFERTA DE AMOR",
     "autor": "MINISTÉRIO KOINONYA",
     "link": "l1nk.dev/OfertaDeAmor",
     "vsCifra": false,
@@ -999,7 +999,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "OH QUÃO LINDO ESSE NOME É",
     "autor": "HILSONG",
     "link": "https://www.youtube.com/watch?v=inct32y32jo",
     "vsCifra": true,
@@ -1010,9 +1010,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "OS QUE CONFIAM NO SENHOR",
     "autor": "MARCOS GOES",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1021,9 +1021,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PAI NOSSO",
     "autor": "JOÃO ALEXANDRE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -1033,9 +1033,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PÃO DA VIDA",
     "autor": "CLÁUDIO CLARO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -1044,9 +1044,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PERDÃO E GRAÇA",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -1056,7 +1056,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PERTO QUERO ESTAR",
     "autor": "MICHAEL W SMITH",
     "link": "acesse.one/PertoQueroEstar",
     "vsCifra": true,
@@ -1068,14 +1068,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Poder do seu amor",
     "autor": "DT",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "PODER PRA SALVAR",
     "autor": "HILSONG PORTUGUES",
     "link": "https://open.spotify.com/intl-pt/track/0woXw7yRascjnmsjvwfgGn?si=9658f0e195a1435b",
     "vsCifra": false,
@@ -1086,7 +1086,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PORQUE ELE VIVE",
     "autor": "HINO CANTOR CRISTÃO",
     "link": "l1nk.dev/PorqueEleVive",
     "vsCifra": true,
@@ -1097,14 +1097,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Pra Sempre",
     "autor": "Kari Jobe",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "PRECISO DE TI",
     "autor": "DT",
     "link": "l1nk.dev/PrecisoDeTi",
     "vsCifra": true,
@@ -1113,9 +1113,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "PRINCIPE",
     "autor": "RESGATE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -1124,9 +1124,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUANDO ENTRO EM TUA PRESENÇA",
     "autor": "BIBLICA DA PAZ",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "EPIFANIA",
@@ -1136,9 +1136,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUÃO GRANDE ÉS TU",
     "autor": "HINO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -1147,9 +1147,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUÃO GRANDE ÉS TU (TU ÉS DIGNO)",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
@@ -1160,9 +1160,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUE A PAZ DE DEUS REINE",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUEBRANTADO (PELA CRUZ)",
     "autor": "VINEYARD",
     "link": "l1nk.dev/Quebrantado",
     "vsCifra": true,
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUEM NOS SEPARARÁ",
     "autor": "DIANTE DO TRONO",
     "link": "https://www.youtube.com/watch?v=p1funaur_gk",
     "vsCifra": false,
@@ -1193,9 +1193,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUERO SUBIR",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1204,9 +1204,9 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "REDENÇÃO (PROJETO SOLA)",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "NATAL",
@@ -1215,16 +1215,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Rei Salvador (Savior King)",
     "autor": "Comuniodade Zona sul",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "REINA HOJE",
     "autor": "MINISTÉRIO KOINONYA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1233,9 +1233,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "RENOVA-ME",
     "autor": "ALINE BARROS",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1244,7 +1244,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "RESSUCITOU",
     "autor": "ELEVATION",
     "link": "https://www.youtube.com/watch?v=_nk1pw1qwq4",
     "vsCifra": true,
@@ -1255,9 +1255,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "RESSURREIÇÃO",
     "autor": "PROJETO SOLA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -1266,9 +1266,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "RUDE CRUZ",
     "autor": "ANDRÉ VALADÃO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PENTECOSTES",
@@ -1276,9 +1276,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SALMO 51",
     "autor": "NAIELLY LEITE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1286,9 +1286,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SALVO PELA GRAÇA",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1297,9 +1297,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SANTO",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1308,9 +1308,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SANTO DEUS",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -1319,14 +1319,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Santo pra Sempre",
     "autor": "Ana Paula Nobrega",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "SANTO SANTO SANTO",
     "autor": "HOSANA MUSIC",
     "link": "VERSÃO RENASCER PRAYSE",
     "vsCifra": false,
@@ -1337,7 +1337,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SANTO, SANTO, SANTO (DEUS ONIPOTENTE)",
     "autor": "HINO",
     "link": "VENCEDORES POR CRISTO (CD HINOS I)",
     "vsCifra": false,
@@ -1348,9 +1348,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SE ANDARMOS NA LUZ",
     "autor": "HELOÍSA ROSA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PENTECOSTES",
@@ -1358,7 +1358,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SE ESVAZIOU",
     "autor": "DANIEL SOUZA",
     "link": "https://www.youtube.com/watch?v=iq1a4oqso2g",
     "vsCifra": false,
@@ -1369,9 +1369,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SE EU QUISER ADORAR A DEUS",
     "autor": "MINISTÉRIO KOINONYA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1380,9 +1380,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SE RENOVAM (BOM É O SENHOR...)",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1391,7 +1391,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SEGURANÇA (SOU DE JESUS)",
     "autor": "HINO",
     "link": "LETRA DO CC - 375",
     "vsCifra": false,
@@ -1402,9 +1402,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SEJA ENGRANDECIDO",
     "autor": "GUILHERME KERR",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
@@ -1414,7 +1414,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SEJA O CENTRO",
     "autor": "VINEYARD",
     "link": "https://www.youtube.com/watch?v=udnriwk2c6y&list=rdudnriwk2c6y&start_radio=1&t=351",
     "vsCifra": false,
@@ -1427,7 +1427,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SENHOR FORMOSO ÉS (OH LORD, YOU'RE BEAUTIFUL)",
     "autor": "KEITH GREEN",
     "link": "VERSÃO MARCOS GOES",
     "vsCifra": false,
@@ -1437,9 +1437,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SENHOR TE QUERO (EU TE BUSCO)",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -1448,9 +1448,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SEU NOME É",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1459,27 +1459,27 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "SÓ TENHO A TI",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "SONDA-ME",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
+    "nome": "SOU FELIZ",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1488,9 +1488,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TE ADORAR",
     "autor": "PROJETO VIDA NOVA DE IRAJÁ",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1499,9 +1499,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TE AGRADEÇO",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -1510,18 +1510,18 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TEU AMOR NAO FALHA",
     "autor": "NÍVEA SOARES",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
+    "nome": "TEU POVO (É O TEU POVO AQUI PRESENTE)",
     "autor": "VENCEDORES POR CRISTO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1530,9 +1530,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TEU POVO CLAMA",
     "autor": "VENCEDORES POR CRISTO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1541,7 +1541,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TEUS ALTARES",
     "autor": "JOÃO ALEXANDRE",
     "link": "https://www.youtube.com/watch?v=m_qbcrorqrc",
     "vsCifra": true,
@@ -1553,9 +1553,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TOCOU-ME",
     "autor": "HINO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1564,7 +1564,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SUFIENTE + DOXOLOGIA",
     "autor": "FHOPE",
     "link": "https://open.spotify.com/intl-pt/track/4es6T6fIR7YzW65d1jNKpU?si=080724eb7090447e",
     "vsCifra": false,
@@ -1576,9 +1576,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TODO PODER PERTENCE A JESUS",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1587,7 +1587,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ÉS MAIS FORTE",
     "autor": "HILSONG PORTUGUES",
     "link": "https://open.spotify.com/intl-pt/track/54J1uG33yRt10lfqNwpD0c?si=22e1f53bbd764941",
     "vsCifra": false,
@@ -1598,9 +1598,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TODO SOM",
     "autor": "RESGATE",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "ADVENTO",
@@ -1609,9 +1609,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TODOS QUE TÊM SEDE",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "QUARESMA",
@@ -1620,7 +1620,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TOMA O MEU CORAÇÃO (I GIVE YOU MY HEART)",
     "autor": "HILSONG, VERSÃO PRISMA",
     "link": "https://www.youtube.com/watch?v=rtb27r8vvwu",
     "vsCifra": false,
@@ -1631,9 +1631,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TOMA O TEU LUGAR",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
@@ -1645,16 +1645,16 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Tu És bom",
     "autor": "Nivea Soares",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "TU ÉS FIEL, SENHOR (O DEUS FIEL)",
     "autor": "HINO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1663,7 +1663,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TU ÉS MEU REI",
     "autor": "VINEYARD",
     "link": "https://www.youtube.com/watch?time_continue=13&v=zy29se111s8",
     "vsCifra": false,
@@ -1675,7 +1675,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TU ÉS SANTO",
     "autor": "MICHAEL SMITH",
     "link": "LETRA: RONALDO BEZERRA",
     "vsCifra": true,
@@ -1687,9 +1687,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TU ÉS SOBERANO",
     "autor": "ASAPH BORBA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -1698,9 +1698,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TU ME AMASTE EM PRIMEIRO LUGAR",
     "autor": "DANIEL SOUZA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1710,18 +1710,18 @@
     ]
   },
   {
-    "nome": "",
-    "autor": "nan",
-    "link": "nan",
+    "nome": "TU VIVES ENTRE OS QUERUBINS",
+    "autor": "",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
     ]
   },
   {
-    "nome": "",
+    "nome": "TUDO ENTREGAREI",
     "autor": "HINO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1730,9 +1730,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VASO NOVO",
     "autor": "VPC",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1741,7 +1741,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VASOS QUEBRADOS (SUBLIME GRAÇA)",
     "autor": "HILSONG EM PORTUGUES",
     "link": "https://www.youtube.com/watch?v=_ahfl-ofam8",
     "vsCifra": true,
@@ -1753,9 +1753,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VEM DE TI, SENHOR",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1765,9 +1765,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VEM LOUVAR (HOJE É TEMPO DE LOUVAR)",
     "autor": "DESCONHECIDO",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -1776,7 +1776,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VEM, ESTÁ É A HORA",
     "autor": "VINEYARD",
     "link": "ALTERAR LETRA \"A TI RESPONDER\"",
     "vsCifra": true,
@@ -1787,7 +1787,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VENCENDO VEM JESUS",
     "autor": "HINO",
     "link": "https://www.youtube.com/watch?v=rs6mnkndfmu",
     "vsCifra": false,
@@ -1798,9 +1798,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VENHA SOBRE NÓS",
     "autor": "CANTOVERBO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "EPIFANIA",
@@ -1810,9 +1810,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Vida aos sepulcros",
     "autor": "Elevation Worship",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "EPIFANIA",
@@ -1821,7 +1821,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VIM PARA ADORAR-TE",
     "autor": "MICHAEL SMITH",
     "link": "música: https://www.youtube.com/watch?v=coxopsrsfdu) / quatro por um (letra)",
     "vsCifra": true,
@@ -1832,21 +1832,21 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "Vinho e Pão",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "QUERO TANTO AGRADECER",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "HOSANA",
     "autor": "HILSONG EM PORTUGUES",
     "link": "https://www.youtube.com/watch?v=2UtcyWiS2aI",
     "vsCifra": true,
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CANÇÃO DO APOCALIPSE",
     "autor": "AVIVAH",
     "link": "https://youtu.be/GN_TohrQesA?si=3sW-lsrx5g7IBtIA",
     "vsCifra": false,
@@ -1866,7 +1866,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUE AMOR É ESSE",
     "autor": "SUYLÔ E SOLA",
     "link": "https://open.spotify.com/intl-pt/track/1GKjj26uasFDUphJN8OODs?si=6c757fc723784875",
     "vsCifra": false,
@@ -1875,7 +1875,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EFÉSIO 1",
     "autor": "PROJETO SOLA",
     "link": "https://www.youtube.com/watch?v=6UFnLQJ-Z1Q",
     "vsCifra": false,
@@ -1885,7 +1885,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "MOLDA-ME",
     "autor": "JOSIMAR BIACHI, VPC",
     "link": "https://open.spotify.com/intl-pt/track/4WSuQ1XPrSUI973uPnMfht?si=984af10461cd401f",
     "vsCifra": false,
@@ -1894,7 +1894,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "HÁ PODER",
     "autor": "FHOPE",
     "link": "https://www.youtube.com/watch?v=5DN90_GGBZA",
     "vsCifra": false,
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SUBLIME",
     "autor": "FHOPE",
     "link": "https://youtu.be/7GWZwO0MdsY?si=SOr3-ib_69pWUs4l",
     "vsCifra": false,
@@ -1914,7 +1914,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SAMLMO 139",
     "autor": "GATEWAY",
     "link": "https://open.spotify.com/intl-pt/track/7kUHYYPLlfucGRJnZLZxu3?si=d040a653f5f24f86",
     "vsCifra": false,
@@ -1924,7 +1924,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "AO PÉ DA CRUZ",
     "autor": "NOVO CANTO",
     "link": "https://www.youtube.com/watch?v=2C6EPo0GE3I",
     "vsCifra": false,
@@ -1934,7 +1934,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ENQUANTO EU VIVER",
     "autor": "DIANTE DO TRONO",
     "link": "https://www.youtube.com/watch?v=-Ft25L_MWGM",
     "vsCifra": false,
@@ -1944,7 +1944,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "63",
     "autor": "NOVO CANTO",
     "link": "https://www.youtube.com/watch?v=FXMmY2ql9Ug",
     "vsCifra": false,
@@ -1953,14 +1953,14 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SENHOR TU ÉS BOM",
     "autor": "ISAREL HOUGHTON",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
-    "nome": "",
+    "nome": "A CRIAÇÃO EM TEU LOUVOR",
     "autor": "SAMUEL MIZRAHY",
     "link": "https://www.youtube.com/watch?v=qpne7vm6r30",
     "vsCifra": false,
@@ -1970,9 +1970,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "ACREDITO",
     "autor": "DIANTE DO TRONO",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1982,7 +1982,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "CANÇÃO DO APOCALIPSE",
     "autor": "HILSONG",
     "link": "l1nk.dev/CancaoDoAPC",
     "vsCifra": true,
@@ -1992,7 +1992,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "COLOSSENSES 1",
     "autor": "PROJETO SOLA",
     "link": "acesse.one/Colossences1",
     "vsCifra": true,
@@ -2005,7 +2005,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "EU TAMBÉM",
     "autor": "HILLSONG",
     "link": "https://www.youtube.com/watch?v=h5plfizkr5a",
     "vsCifra": true,
@@ -2015,7 +2015,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "JESUS É O REI DA GLÓRIA",
     "autor": "DANIEL SOUZA",
     "link": "acesse.one/JesusEoRei",
     "vsCifra": true,
@@ -2027,7 +2027,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "LOUVOR E HONRA (ANCIENT OF DAYS)",
     "autor": "PAULO CESAR BARUK",
     "link": "https://www.youtube.com/watch?v=7rddoafnkdq&list=rd7rddoafnkdq&start_radio=1",
     "vsCifra": true,
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "NOSSO DEUS É SOBERANO",
     "autor": "ASAPH BORBA",
     "link": "l1nk.dev/NossoDeusESoberano",
     "vsCifra": true,
@@ -2052,9 +2052,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUÃO FORMOSO ÉS",
     "autor": "MINISTÉRIO KOINONYA",
-    "link": "nan",
+    "link": "",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -2064,7 +2064,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TEU AMOR É INCRÍVEL",
     "autor": "VINEYARD",
     "link": "https://www.youtube.com/watch?v=7HykzkFBAwc",
     "vsCifra": false,
@@ -2076,9 +2076,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "QUERO LOUVAR-TE",
     "autor": "PAULO CESAR BARUK",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "EPIFANIA",
@@ -2088,7 +2088,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "REI DAS NAÇÕES",
     "autor": "VENCEDORES POR CRISTO",
     "link": "https://www.youtube.com/watch?v=pr7diwe__5w)\nregravada: https://open.spotify.com/track/5vsqadkmliafokqif0llrf",
     "vsCifra": false,
@@ -2101,9 +2101,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "REINA EM MIM",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -2113,9 +2113,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "SENHOR DA CRIAÇÃO",
     "autor": "VINEYARD",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PENTECOSTES",
@@ -2124,7 +2124,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "TESTEMUNHAR DO AMOR",
     "autor": "AVALON",
     "link": "https://www.youtube.com/watch?v=hoimnl5ygvs",
     "vsCifra": true,
@@ -2135,9 +2135,9 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "VÓS CRIATURAS DE DEUS PAI",
     "autor": "IPALPHA",
-    "link": "nan",
+    "link": "",
     "vsCifra": true,
     "estacoes": [
       "PENTECOSTES",
@@ -2146,7 +2146,7 @@
     ]
   },
   {
-    "nome": "",
+    "nome": "136",
     "autor": "PROJETO SOLA",
     "link": "https://www.youtube.com/watch?v=4Ef_sSKPClg",
     "vsCifra": false,
